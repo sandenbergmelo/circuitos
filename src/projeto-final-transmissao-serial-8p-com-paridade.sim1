@@ -22,7 +22,7 @@
 
 <item itemtype="Resistor" CircId="Resistor-7957" mainComp="false" Show_id="false" Show_Val="false" Pos="592,-908" rotation="0" hflip="1" vflip="1" label="Resistor-7957" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Resistance="220 Ω" />
 
-<item itemtype="Fixed Voltage" CircId="Fixed Voltage-7958" mainComp="false" Show_id="true" Show_Val="false" Pos="40,-788" rotation="90" hflip="1" vflip="1" label="PRE3" idLabPos="-10,-21" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-7958" mainComp="false" Show_id="true" Show_Val="false" Pos="40,-788" rotation="90" hflip="1" vflip="1" label="PRE3" idLabPos="-10,-21" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
 
 <item itemtype="Tunnel" CircId="Tunnel-7959" mainComp="false" Show_id="true" Show_Val="false" Pos="544,-692" rotation="90" hflip="1" vflip="1" label="Q5" idLabPos="-28,-18" labelrot="0" valLabPos="-16,20" valLabRot="0" />
 
@@ -34,7 +34,7 @@
 
 <item itemtype="And Gate" CircId="And Gate-7964" mainComp="false" Show_id="false" Show_Val="false" Pos="-68,-660" rotation="90" hflip="1" vflip="1" label="And Gate-7964" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Num_Inputs="2" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
 
-<item itemtype="Fixed Voltage" CircId="Fixed Voltage-7965" mainComp="false" Show_id="true" Show_Val="false" Pos="160,-788" rotation="90" hflip="1" vflip="1" label="PRE1" idLabPos="-8,-22" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-7965" mainComp="false" Show_id="true" Show_Val="false" Pos="160,-788" rotation="90" hflip="1" vflip="1" label="PRE1" idLabPos="-8,-22" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
 
 <item itemtype="Tunnel" CircId="Tunnel-7966" mainComp="false" Show_id="true" Show_Val="false" Pos="420,-692" rotation="90" hflip="1" vflip="1" label="Q7" idLabPos="-28,-18" labelrot="0" valLabPos="-16,20" valLabRot="0" />
 
@@ -82,7 +82,7 @@
 
 <item itemtype="And Gate" CircId="And Gate-8308" mainComp="false" Show_id="false" Show_Val="false" Pos="104,-660" rotation="90" hflip="1" vflip="1" label="And Gate-8308" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Num_Inputs="2" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
 
-<item itemtype="Fixed Voltage" CircId="Fixed Voltage-8469" mainComp="false" Show_id="true" Show_Val="false" Pos="-72,-788" rotation="90" hflip="1" vflip="1" label="PRE5" idLabPos="-8,-22" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-8469" mainComp="false" Show_id="true" Show_Val="false" Pos="-72,-788" rotation="90" hflip="1" vflip="1" label="PRE5" idLabPos="-8,-22" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
 
 <item itemtype="Fixed Voltage" CircId="Fixed Voltage-8470" mainComp="false" Show_id="true" Show_Val="false" Pos="-192,-788" rotation="90" hflip="1" vflip="1" label="PRE7" idLabPos="-10,-21" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
 
@@ -90,9 +90,9 @@
 
 <item itemtype="Fixed Voltage" CircId="Fixed Voltage-8472" mainComp="false" Show_id="true" Show_Val="false" Pos="-12,-788" rotation="90" hflip="1" vflip="1" label="PRE4" idLabPos="-8,-22" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
 
-<item itemtype="And Gate" CircId="And Gate-8481" mainComp="false" Show_id="true" Show_Val="false" Pos="308,-660" rotation="90" hflip="1" vflip="1" label="Bit de paridade" idLabPos="-43,-21" labelrot="0" valLabPos="-16,20" valLabRot="0" Num_Inputs="2" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
+<item itemtype="And Gate" CircId="And Gate-8481" mainComp="false" Show_id="true" Show_Val="false" Pos="276,-660" rotation="90" hflip="1" vflip="1" label="Bit de paridade" idLabPos="-43,-21" labelrot="0" valLabPos="-16,20" valLabRot="0" Num_Inputs="2" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
 
-<item itemtype="FlipFlopD" CircId="FlipFlopD-8483" mainComp="false" Show_id="false" Show_Val="false" Pos="308,-620" rotation="0" hflip="1" vflip="1" label="FlipFlopD-8483" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" UseRS="true" Reset_Inverted="false" Clock_Inverted="false" Trigger="Clock" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
+<item itemtype="FlipFlopD" CircId="FlipFlopD-8483" mainComp="false" Show_id="false" Show_Val="false" Pos="276,-620" rotation="0" hflip="1" vflip="1" label="FlipFlopD-8483" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" UseRS="true" Reset_Inverted="false" Clock_Inverted="false" Trigger="Clock" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
 
 <item itemtype="Tunnel" CircId="Tunnel-8500" mainComp="false" Show_id="true" Show_Val="false" Pos="840,-692" rotation="90" hflip="1" vflip="1" label="Q0" idLabPos="-26,-18" labelrot="0" valLabPos="-16,20" valLabRot="0" />
 
@@ -111,8 +111,6 @@
 <item itemtype="Tunnel" CircId="Tunnel-8512" mainComp="false" Show_id="true" Show_Val="false" Pos="724,-692" rotation="90" hflip="1" vflip="1" label="Q2" idLabPos="-28,-18" labelrot="0" valLabPos="-16,20" valLabRot="0" />
 
 <item itemtype="FlipFlopD" CircId="FlipFlopD-8693" mainComp="false" Show_id="false" Show_Val="false" Pos="876,-620" rotation="0" hflip="1" vflip="1" label="FlipFlopD-8693" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" UseRS="true" Reset_Inverted="false" Clock_Inverted="false" Trigger="Clock" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
-
-<item itemtype="Tunnel" CircId="Tunnel-8700" mainComp="false" Show_id="true" Show_Val="false" Pos="900,-680" rotation="90" hflip="1" vflip="1" label="Paridade" idLabPos="-30,-16" labelrot="0" valLabPos="-16,20" valLabRot="0" />
 
 <item itemtype="BcdTo7S" CircId="BcdTo7S-8862" mainComp="false" Show_id="false" Show_Val="false" Pos="700,-852" rotation="-90" hflip="1" vflip="1" label="BcdTo7S-8862" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Inverted="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
 
@@ -134,7 +132,7 @@
 
 <item itemtype="Resistor" CircId="Resistor-8871" mainComp="false" Show_id="false" Show_Val="false" Pos="748,-892" rotation="0" hflip="1" vflip="1" label="Resistor-8871" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Resistance="220 Ω" />
 
-<item itemtype="Clock" CircId="Clock-10402" mainComp="false" ShowProp="Freq" Show_id="true" Show_Val="true" Pos="-256,-448" rotation="0" hflip="1" vflip="1" label="Clock" idLabPos="-15.3212,-22" labelrot="0" valLabPos="-13,9" valLabRot="0" Out="true" Running="true" Voltage="5 V" Freq="1 Hz" Always_On="true" />
+<item itemtype="Clock" CircId="Clock-10402" mainComp="false" ShowProp="Freq" Show_id="true" Show_Val="true" Pos="-256,-448" rotation="0" hflip="1" vflip="1" label="Clock" idLabPos="-15,-22" labelrot="0" valLabPos="-13,9" valLabRot="0" Out="true" Running="true" Voltage="5 V" Freq="1 Hz" Always_On="true" />
 
 <item itemtype="Resistor" CircId="Resistor-10403" mainComp="false" Show_id="false" Show_Val="false" Pos="148,-496" rotation="0" hflip="1" vflip="1" label="Resistor-10403" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Resistance="220 Ω" />
 
@@ -172,9 +170,9 @@
 
 <item itemtype="And Gate" CircId="And Gate-10838" mainComp="false" Show_id="true" Show_Val="false" Pos="68,-420" rotation="90" hflip="1" vflip="1" label="Porta que para o clock" idLabPos="-16,-34" labelrot="0" valLabPos="-16,20" valLabRot="0" Num_Inputs="2" Inverted="true" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
 
-<item itemtype="Led" CircId="Led-10849" mainComp="false" Show_id="false" Show_Val="false" Pos="992,-656" rotation="0" hflip="1" vflip="1" label="Led-10849" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Color="Yellow" Grounded="true" Threshold="2.4 V" MaxCurrent="0.03 A" Resistance="0.6 Ω" />
+<item itemtype="Led" CircId="Led-10849" mainComp="false" Show_id="true" Show_Val="false" Pos="972,-620" rotation="0" hflip="1" vflip="1" label="Bit de paridade" idLabPos="-57,-25" labelrot="0" valLabPos="-16,20" valLabRot="0" Color="Yellow" Grounded="true" Threshold="2.4 V" MaxCurrent="0.03 A" Resistance="0.6 Ω" />
 
-<item itemtype="Resistor" CircId="Resistor-10851" mainComp="false" Show_id="false" Show_Val="false" Pos="944,-656" rotation="0" hflip="1" vflip="1" label="Resistor-10851" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Resistance="220 Ω" />
+<item itemtype="Resistor" CircId="Resistor-10851" mainComp="false" Show_id="false" Show_Val="false" Pos="924,-620" rotation="0" hflip="1" vflip="1" label="Resistor-10851" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Resistance="220 Ω" />
 
 <item itemtype="Xor Gate" CircId="Xor Gate-11387" mainComp="false" Show_id="false" Show_Val="false" Pos="-360,-868" rotation="0" hflip="1" vflip="1" label="Xor Gate-11387" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
 
@@ -190,21 +188,21 @@
 
 <item itemtype="Xor Gate" CircId="Xor Gate-12236" mainComp="false" Show_id="false" Show_Val="false" Pos="-260,-832" rotation="0" hflip="1" vflip="1" label="Xor Gate-12236" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
 
-<item itemtype="Xor Gate" CircId="Xor Gate-12239" mainComp="false" Show_id="false" Show_Val="false" Pos="92,-1000" rotation="0" hflip="1" vflip="1" label="Xor Gate-12239" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
+<item itemtype="Xor Gate" CircId="Xor Gate-12239" mainComp="false" Show_id="false" Show_Val="false" Pos="944,-412" rotation="0" hflip="1" vflip="1" label="Xor Gate-12239" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
 
-<item itemtype="Xor Gate" CircId="Xor Gate-12240" mainComp="false" Show_id="false" Show_Val="false" Pos="92,-1024" rotation="0" hflip="1" vflip="1" label="Xor Gate-12240" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
+<item itemtype="Xor Gate" CircId="Xor Gate-12240" mainComp="false" Show_id="false" Show_Val="false" Pos="944,-436" rotation="0" hflip="1" vflip="1" label="Xor Gate-12240" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
 
-<item itemtype="Xor Gate" CircId="Xor Gate-12241" mainComp="false" Show_id="false" Show_Val="false" Pos="144,-1012" rotation="0" hflip="1" vflip="1" label="Xor Gate-12241" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
+<item itemtype="Xor Gate" CircId="Xor Gate-12241" mainComp="false" Show_id="false" Show_Val="false" Pos="996,-424" rotation="0" hflip="1" vflip="1" label="Xor Gate-12241" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
 
-<item itemtype="Xor Gate" CircId="Xor Gate-12242" mainComp="false" Show_id="false" Show_Val="false" Pos="144,-1060" rotation="0" hflip="1" vflip="1" label="Xor Gate-12242" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
+<item itemtype="Xor Gate" CircId="Xor Gate-12242" mainComp="false" Show_id="false" Show_Val="false" Pos="996,-472" rotation="0" hflip="1" vflip="1" label="Xor Gate-12242" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
 
-<item itemtype="Xor Gate" CircId="Xor Gate-12243" mainComp="false" Show_id="false" Show_Val="false" Pos="92,-1072" rotation="0" hflip="1" vflip="1" label="Xor Gate-12243" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
+<item itemtype="Xor Gate" CircId="Xor Gate-12243" mainComp="false" Show_id="false" Show_Val="false" Pos="944,-484" rotation="0" hflip="1" vflip="1" label="Xor Gate-12243" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
 
-<item itemtype="Xor Gate" CircId="Xor Gate-12244" mainComp="false" Show_id="false" Show_Val="false" Pos="192,-1036" rotation="0" hflip="1" vflip="1" label="Xor Gate-12244" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
+<item itemtype="Xor Gate" CircId="Xor Gate-12244" mainComp="false" Show_id="false" Show_Val="false" Pos="1044,-448" rotation="0" hflip="1" vflip="1" label="Xor Gate-12244" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
 
-<item itemtype="Xor Gate" CircId="Xor Gate-12245" mainComp="false" Show_id="false" Show_Val="false" Pos="92,-1048" rotation="0" hflip="1" vflip="1" label="Xor Gate-12245" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
+<item itemtype="Xor Gate" CircId="Xor Gate-12245" mainComp="false" Show_id="false" Show_Val="false" Pos="944,-460" rotation="0" hflip="1" vflip="1" label="Xor Gate-12245" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
 
-<item itemtype="Xor Gate" CircId="Xor Gate-12252" mainComp="false" Show_id="false" Show_Val="false" Pos="244,-1040" rotation="0" hflip="1" vflip="1" label="Xor Gate-12252" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
+<item itemtype="Xor Gate" CircId="Xor Gate-12252" mainComp="false" Show_id="false" Show_Val="false" Pos="1096,-452" rotation="0" hflip="1" vflip="1" label="Xor Gate-12252" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Inverted="false" Open_Collector="false" Input_High_V="2.5 V" Input_Low_V="2.5 V" Input_Imped="1e+9 Ω" Out_High_V="5 V" Out_Low_V="0 V" Out_Imped="40 Ω" initHigh="false" Tpd_ps="10000 ps" Tr_ps="3000 ps" Tf_ps="4000 ps" />
 
 <item itemtype="TextComponent" CircId="TextComponent-12869" mainComp="false" Show_id="false" Show_Val="false" Pos="96,-552" rotation="0" hflip="1" vflip="1" label="TextComponent-12869" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="5 _Pixels" Border="1 _Pixels" Opacity="1" Font="Helvetica [Cronyx]" Font_Size="10 _Pixels" Fixed_Width="true" Text="Contador de 0 a 9" />
 
@@ -214,9 +212,11 @@
 
 <item itemtype="TextComponent" CircId="TextComponent-13507" mainComp="false" Show_id="false" Show_Val="false" Pos="-64,-864" rotation="0" hflip="1" vflip="1" label="TextComponent-13507" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="5 _Pixels" Border="1 _Pixels" Opacity="1" Font="Helvetica [Cronyx]" Font_Size="10 _Pixels" Fixed_Width="true" Text="ENTRADAS (Dados a serem enviados)" />
 
-<item itemtype="TextComponent" CircId="TextComponent-14107" mainComp="false" Show_id="false" Show_Val="false" Pos="-424,-908" rotation="0" hflip="1" vflip="1" label="TextComponent-14107" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="5 _Pixels" Border="1 _Pixels" Opacity="1" Font="Helvetica [Cronyx]" Font_Size="10 _Pixels" Fixed_Width="true" Text="Circuito gerador de paridade" />
+<item itemtype="TextComponent" CircId="TextComponent-14107" mainComp="false" Show_id="false" Show_Val="false" Pos="-408,-908" rotation="0" hflip="1" vflip="1" label="TextComponent-14107" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="5 _Pixels" Border="1 _Pixels" Opacity="1" Font="Helvetica [Cronyx]" Font_Size="10 _Pixels" Fixed_Width="true" Text="Circuito gerador de paridade" />
 
-<item itemtype="Tunnel" CircId="Tunnel-14426" mainComp="false" Show_id="false" Show_Val="false" Pos="104,-1096" rotation="0" hflip="1" vflip="1" label="Tunnel-14426" idLabPos="-28,-18" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+<item itemtype="Resistor" CircId="Resistor-15047" mainComp="false" Show_id="false" Show_Val="false" Pos="1136,-452" rotation="0" hflip="1" vflip="1" label="Resistor-15047" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Resistance="220 Ω" />
+
+<item itemtype="Led" CircId="Led-15048" mainComp="false" Show_id="true" Show_Val="false" Pos="1184,-452" rotation="0" hflip="1" vflip="1" label="Erro na transmissão" idLabPos="-57,-35" labelrot="0" valLabPos="-16,20" valLabRot="0" Color="Yellow" Grounded="true" Threshold="2.4 V" MaxCurrent="0.03 A" Resistance="0.6 Ω" />
 
 <item itemtype="Node" CircId="Node-7934" mainComp="false" Pos="-84,-588" />
 
@@ -302,11 +302,11 @@
 
 <item itemtype="Node" CircId="Node-8702" mainComp="false" Pos="820,-572" />
 
-<item itemtype="Node" CircId="Node-8857" mainComp="false" Pos="316,-572" />
+<item itemtype="Node" CircId="Node-8857" mainComp="false" Pos="284,-572" />
 
 <item itemtype="Node" CircId="Node-8860" mainComp="false" Pos="396,-572" />
 
-<item itemtype="Node" CircId="Node-9613" mainComp="false" Pos="292,-588" />
+<item itemtype="Node" CircId="Node-9613" mainComp="false" Pos="260,-588" />
 
 <item itemtype="Node" CircId="Node-9616" mainComp="false" Pos="372,-588" />
 
@@ -339,8 +339,6 @@
 <item itemtype="Node" CircId="Node-10844" mainComp="false" Pos="64,-488" />
 
 <item itemtype="Node" CircId="Node-10846" mainComp="false" Pos="72,-464" />
-
-<item itemtype="Node" CircId="Node-10860" mainComp="false" Pos="900,-656" />
 
 <item itemtype="Node" CircId="Node-11938" mainComp="false" Pos="-168,-444" />
 
@@ -394,576 +392,628 @@
 
 <item itemtype="Node" CircId="Node-14728" mainComp="false" Pos="-232,-572" />
 
-<item itemtype="Connector" uid="connector-14729" startpinid="FlipFlopD-7951-in3" endpinid="Node-7934-1" pointList="-84,-612,-84,-588" />
+<item itemtype="Node" CircId="Node-15339" mainComp="false" Pos="852,-620" />
 
-<item itemtype="Connector" uid="connector-14730" startpinid="Node-7954-2" endpinid="FlipFlopD-7961-in0" pointList="420,-620,432,-620" />
+<item itemtype="Node" CircId="Node-15633" mainComp="false" Pos="788,-620" />
 
-<item itemtype="Connector" uid="connector-14731" startpinid="Node-7946-2" endpinid="Node-8538-0" pointList="516,-572,576,-572" />
+<item itemtype="Node" CircId="Node-15636" mainComp="false" Pos="724,-620" />
 
-<item itemtype="Connector" uid="connector-14732" startpinid="FlipFlopD-7983-in1" endpinid="And Gate-7975-out" pointList="-188,-636,-188,-644" />
+<item itemtype="Node" CircId="Node-15639" mainComp="false" Pos="664,-620" />
 
-<item itemtype="Connector" uid="connector-14733" startpinid="And Gate-7968-out" endpinid="FlipFlopD-7933-in1" pointList="-8,-644,-8,-636" />
+<item itemtype="Node" CircId="Node-15642" mainComp="false" Pos="596,-620" />
 
-<item itemtype="Connector" uid="connector-14734" startpinid="BcdTo7S-7949-out2" endpinid="Resistor-7957-lPin" pointList="536,-876,536,-908,576,-908" />
+<item itemtype="Node" CircId="Node-15645" mainComp="false" Pos="544,-620" />
 
-<item itemtype="Connector" uid="connector-14735" startpinid="BcdTo7S-7949-out0" endpinid="Resistor-7978-lPin" pointList="520,-876,520,-924,576,-924" />
+<item itemtype="Node" CircId="Node-15648" mainComp="false" Pos="480,-620" />
 
-<item itemtype="Connector" uid="connector-14736" startpinid="BcdTo7S-7949-out5" endpinid="Resistor-7963-lPin" pointList="560,-876,560,-884,576,-884" />
+<item itemtype="Node" CircId="Node-15651" mainComp="false" Pos="420,-620" />
 
-<item itemtype="Connector" uid="connector-14737" startpinid="Resistor-7948-rPin" endpinid="Seven Segment-7974-pin_e" pointList="608,-892,608,-892" />
+<item itemtype="Node" CircId="Node-15654" mainComp="false" Pos="904,-620" />
 
-<item itemtype="Connector" uid="connector-14738" startpinid="FlipFlopD-7938-in2" endpinid="Node-7976-1" pointList="-120,-596,-120,-572" />
+<item itemtype="Connector" uid="connector-15655" startpinid="FlipFlopD-7951-in3" endpinid="Node-7934-1" pointList="-84,-612,-84,-588" />
 
-<item itemtype="Connector" uid="connector-14739" startpinid="And Gate-7968-in0" endpinid="Node-8324-0" pointList="-4,-676,-4,-684" />
+<item itemtype="Connector" uid="connector-15656" startpinid="Node-7946-2" endpinid="Node-8538-0" pointList="516,-572,576,-572" />
 
-<item itemtype="Connector" uid="connector-14740" startpinid="And Gate-7964-out" endpinid="FlipFlopD-7951-in1" pointList="-68,-644,-68,-636" />
+<item itemtype="Connector" uid="connector-15657" startpinid="FlipFlopD-7983-in1" endpinid="And Gate-7975-out" pointList="-188,-636,-188,-644" />
 
-<item itemtype="Connector" uid="connector-14741" startpinid="FlipFlopD-7938-in0" endpinid="FlipFlopD-7983-out0" pointList="-144,-620,-164,-620" />
+<item itemtype="Connector" uid="connector-15658" startpinid="And Gate-7968-out" endpinid="FlipFlopD-7933-in1" pointList="-8,-644,-8,-636" />
 
-<item itemtype="Connector" uid="connector-14742" startpinid="BcdTo7S-7949-out4" endpinid="Resistor-7948-lPin" pointList="552,-876,552,-892,576,-892" />
+<item itemtype="Connector" uid="connector-15659" startpinid="BcdTo7S-7949-out2" endpinid="Resistor-7957-lPin" pointList="536,-876,536,-908,576,-908" />
 
-<item itemtype="Connector" uid="connector-14743" startpinid="Node-7960-2" endpinid="Node-7946-0" pointList="456,-572,516,-572" />
+<item itemtype="Connector" uid="connector-15660" startpinid="BcdTo7S-7949-out0" endpinid="Resistor-7978-lPin" pointList="520,-876,520,-924,576,-924" />
 
-<item itemtype="Connector" uid="connector-14744" startpinid="FlipFlopD-7987-out0" endpinid="Node-7954-0" pointList="412,-620,420,-620" />
+<item itemtype="Connector" uid="connector-15661" startpinid="BcdTo7S-7949-out5" endpinid="Resistor-7963-lPin" pointList="560,-876,560,-884,576,-884" />
 
-<item itemtype="Connector" uid="connector-14745" startpinid="Node-7976-2" endpinid="Node-7936-0" pointList="-120,-572,-60,-572" />
+<item itemtype="Connector" uid="connector-15662" startpinid="Resistor-7948-rPin" endpinid="Seven Segment-7974-pin_e" pointList="608,-892,608,-892" />
 
-<item itemtype="Connector" uid="connector-14746" startpinid="And Gate-7964-in0" endpinid="Node-7971-1" pointList="-64,-676,-64,-684" />
+<item itemtype="Connector" uid="connector-15663" startpinid="FlipFlopD-7938-in2" endpinid="Node-7976-1" pointList="-120,-596,-120,-572" />
 
-<item itemtype="Connector" uid="connector-14747" startpinid="FlipFlopD-7951-in2" endpinid="Node-7936-1" pointList="-60,-596,-60,-572" />
+<item itemtype="Connector" uid="connector-15664" startpinid="And Gate-7968-in0" endpinid="Node-8324-0" pointList="-4,-676,-4,-684" />
 
-<item itemtype="Connector" uid="connector-14748" startpinid="Resistor-7953-lPin" endpinid="BcdTo7S-7949-out1" pointList="576,-916,528,-916,528,-876" />
+<item itemtype="Connector" uid="connector-15665" startpinid="And Gate-7964-out" endpinid="FlipFlopD-7951-in1" pointList="-68,-644,-68,-636" />
 
-<item itemtype="Connector" uid="connector-14749" startpinid="BcdTo7S-7949-out6" endpinid="Resistor-7986-lPin" pointList="568,-876,576,-876" />
+<item itemtype="Connector" uid="connector-15666" startpinid="FlipFlopD-7938-in0" endpinid="FlipFlopD-7983-out0" pointList="-144,-620,-164,-620" />
 
-<item itemtype="Connector" uid="connector-14750" startpinid="FlipFlopD-7951-out0" endpinid="FlipFlopD-7933-in0" pointList="-44,-620,-24,-620" />
+<item itemtype="Connector" uid="connector-15667" startpinid="BcdTo7S-7949-out4" endpinid="Resistor-7948-lPin" pointList="552,-876,552,-892,576,-892" />
 
-<item itemtype="Connector" uid="connector-14751" startpinid="FlipFlopD-7938-in3" endpinid="Node-7981-1" pointList="-144,-612,-144,-588" />
+<item itemtype="Connector" uid="connector-15668" startpinid="Node-7960-2" endpinid="Node-7946-0" pointList="456,-572,516,-572" />
 
-<item itemtype="Connector" uid="connector-14752" startpinid="Node-7935-2" endpinid="FlipFlopD-7941-in0" pointList="544,-620,552,-620" />
+<item itemtype="Connector" uid="connector-15669" startpinid="FlipFlopD-7987-out0" endpinid="Node-7954-0" pointList="412,-620,420,-620" />
 
-<item itemtype="Connector" uid="connector-14753" startpinid="BcdTo7S-7949-out3" endpinid="Resistor-7977-lPin" pointList="544,-876,544,-900,576,-900" />
+<item itemtype="Connector" uid="connector-15670" startpinid="Node-7976-2" endpinid="Node-7936-0" pointList="-120,-572,-60,-572" />
 
-<item itemtype="Connector" uid="connector-14754" startpinid="Node-7981-2" endpinid="Node-7934-0" pointList="-144,-588,-84,-588" />
+<item itemtype="Connector" uid="connector-15671" startpinid="And Gate-7964-in0" endpinid="Node-7971-1" pointList="-64,-676,-64,-684" />
 
-<item itemtype="Connector" uid="connector-14755" startpinid="Node-7942-2" endpinid="FlipFlopD-7985-in0" pointList="480,-620,492,-620" />
+<item itemtype="Connector" uid="connector-15672" startpinid="FlipFlopD-7951-in2" endpinid="Node-7936-1" pointList="-60,-596,-60,-572" />
 
-<item itemtype="Connector" uid="connector-14756" startpinid="And Gate-7973-out" endpinid="FlipFlopD-7938-in1" pointList="-128,-644,-128,-636" />
+<item itemtype="Connector" uid="connector-15673" startpinid="Resistor-7953-lPin" endpinid="BcdTo7S-7949-out1" pointList="576,-916,528,-916,528,-876" />
 
-<item itemtype="Connector" uid="connector-14757" startpinid="Resistor-7953-rPin" endpinid="Seven Segment-7974-pin_b" pointList="608,-916,608,-916" />
+<item itemtype="Connector" uid="connector-15674" startpinid="BcdTo7S-7949-out6" endpinid="Resistor-7986-lPin" pointList="568,-876,576,-876" />
 
-<item itemtype="Connector" uid="connector-14758" startpinid="FlipFlopD-7985-in2" endpinid="Node-7946-1" pointList="516,-596,516,-572" />
+<item itemtype="Connector" uid="connector-15675" startpinid="FlipFlopD-7951-out0" endpinid="FlipFlopD-7933-in0" pointList="-44,-620,-24,-620" />
 
-<item itemtype="Connector" uid="connector-14759" startpinid="Resistor-7978-rPin" endpinid="Seven Segment-7974-pin_a" pointList="608,-924,608,-924" />
+<item itemtype="Connector" uid="connector-15676" startpinid="FlipFlopD-7938-in3" endpinid="Node-7981-1" pointList="-144,-612,-144,-588" />
 
-<item itemtype="Connector" uid="connector-14760" startpinid="Node-7971-2" endpinid="Node-7944-0" pointList="-64,-684,-124,-684" />
+<item itemtype="Connector" uid="connector-15677" startpinid="Node-7935-2" endpinid="Node-15645-0" pointList="544,-620,544,-620" />
 
-<item itemtype="Connector" uid="connector-14761" startpinid="FlipFlopD-7938-out0" endpinid="FlipFlopD-7951-in0" pointList="-104,-620,-84,-620" />
+<item itemtype="Connector" uid="connector-15678" startpinid="BcdTo7S-7949-out3" endpinid="Resistor-7977-lPin" pointList="544,-876,544,-900,576,-900" />
 
-<item itemtype="Connector" uid="connector-14762" startpinid="FlipFlopD-7961-in2" endpinid="Node-7960-1" pointList="456,-596,456,-572" />
+<item itemtype="Connector" uid="connector-15679" startpinid="Node-7981-2" endpinid="Node-7934-0" pointList="-144,-588,-84,-588" />
 
-<item itemtype="Connector" uid="connector-14763" startpinid="FlipFlopD-7983-in0" endpinid="Ground-7939-Gnd" pointList="-204,-620,-212,-620" />
+<item itemtype="Connector" uid="connector-15680" startpinid="And Gate-7973-out" endpinid="FlipFlopD-7938-in1" pointList="-128,-644,-128,-636" />
 
-<item itemtype="Connector" uid="connector-14764" startpinid="Resistor-7986-rPin" endpinid="Seven Segment-7974-pin_g" pointList="608,-876,608,-876" />
+<item itemtype="Connector" uid="connector-15681" startpinid="Resistor-7953-rPin" endpinid="Seven Segment-7974-pin_b" pointList="608,-916,608,-916" />
 
-<item itemtype="Connector" uid="connector-14765" startpinid="And Gate-7973-in0" endpinid="Node-7944-1" pointList="-124,-676,-124,-684" />
+<item itemtype="Connector" uid="connector-15682" startpinid="FlipFlopD-7985-in2" endpinid="Node-7946-1" pointList="516,-596,516,-572" />
 
-<item itemtype="Connector" uid="connector-14766" startpinid="Resistor-7977-rPin" endpinid="Seven Segment-7974-pin_d" pointList="608,-900,608,-900" />
+<item itemtype="Connector" uid="connector-15683" startpinid="Resistor-7978-rPin" endpinid="Seven Segment-7974-pin_a" pointList="608,-924,608,-924" />
 
-<item itemtype="Connector" uid="connector-14767" startpinid="FlipFlopD-7985-out0" endpinid="Node-7935-0" pointList="532,-620,544,-620" />
+<item itemtype="Connector" uid="connector-15684" startpinid="Node-7971-2" endpinid="Node-7944-0" pointList="-64,-684,-124,-684" />
 
-<item itemtype="Connector" uid="connector-14768" startpinid="FlipFlopD-7961-out0" endpinid="Node-7942-0" pointList="472,-620,480,-620" />
+<item itemtype="Connector" uid="connector-15685" startpinid="FlipFlopD-7938-out0" endpinid="FlipFlopD-7951-in0" pointList="-104,-620,-84,-620" />
 
-<item itemtype="Connector" uid="connector-14769" startpinid="Seven Segment-7974-pin_commona" endpinid="Ground-7962-Gnd" pointList="640,-868,640,-868" />
+<item itemtype="Connector" uid="connector-15686" startpinid="FlipFlopD-7961-in2" endpinid="Node-7960-1" pointList="456,-596,456,-572" />
 
-<item itemtype="Connector" uid="connector-14770" startpinid="Resistor-7957-rPin" endpinid="Seven Segment-7974-pin_c" pointList="608,-908,608,-908" />
+<item itemtype="Connector" uid="connector-15687" startpinid="FlipFlopD-7983-in0" endpinid="Ground-7939-Gnd" pointList="-204,-620,-212,-620" />
 
-<item itemtype="Connector" uid="connector-14771" startpinid="Resistor-7963-rPin" endpinid="Seven Segment-7974-pin_f" pointList="608,-884,608,-884" />
+<item itemtype="Connector" uid="connector-15688" startpinid="Resistor-7986-rPin" endpinid="Seven Segment-7974-pin_g" pointList="608,-876,608,-876" />
 
-<item itemtype="Connector" uid="connector-14772" startpinid="Node-7944-2" endpinid="Node-8089-0" pointList="-124,-684,-184,-684" />
+<item itemtype="Connector" uid="connector-15689" startpinid="And Gate-7973-in0" endpinid="Node-7944-1" pointList="-124,-676,-124,-684" />
 
-<item itemtype="Connector" uid="connector-14773" startpinid="Node-8089-2" endpinid="And Gate-7975-in0" pointList="-184,-684,-184,-676" />
+<item itemtype="Connector" uid="connector-15690" startpinid="Resistor-7977-rPin" endpinid="Seven Segment-7974-pin_d" pointList="608,-900,608,-900" />
 
-<item itemtype="Connector" uid="connector-14774" startpinid="Node-7936-2" endpinid="Node-8333-0" pointList="-60,-572,0,-572" />
+<item itemtype="Connector" uid="connector-15691" startpinid="FlipFlopD-7961-out0" endpinid="Node-7942-0" pointList="472,-620,480,-620" />
 
-<item itemtype="Connector" uid="connector-14775" startpinid="FlipFlopD-7987-in2" endpinid="Node-8860-0" pointList="396,-596,396,-572" />
+<item itemtype="Connector" uid="connector-15692" startpinid="Seven Segment-7974-pin_commona" endpinid="Ground-7962-Gnd" pointList="640,-868,640,-868" />
 
-<item itemtype="Connector" uid="connector-14776" startpinid="Node-7934-2" endpinid="Node-8345-0" pointList="-84,-588,-24,-588" />
+<item itemtype="Connector" uid="connector-15693" startpinid="Resistor-7957-rPin" endpinid="Seven Segment-7974-pin_c" pointList="608,-908,608,-908" />
 
-<item itemtype="Connector" uid="connector-14777" startpinid="FlipFlopD-7987-in3" endpinid="Node-9616-0" pointList="372,-612,372,-588" />
+<item itemtype="Connector" uid="connector-15694" startpinid="Resistor-7963-rPin" endpinid="Seven Segment-7974-pin_f" pointList="608,-884,608,-884" />
 
-<item itemtype="Connector" uid="connector-14778" startpinid="And Gate-8302-in0" endpinid="Node-8498-0" pointList="228,-676,228,-684" />
+<item itemtype="Connector" uid="connector-15695" startpinid="Node-7944-2" endpinid="Node-8089-0" pointList="-124,-684,-184,-684" />
 
-<item itemtype="Connector" uid="connector-14779" startpinid="And Gate-8308-in0" endpinid="Node-8307-1" pointList="108,-676,108,-684" />
+<item itemtype="Connector" uid="connector-15696" startpinid="Node-8089-2" endpinid="And Gate-7975-in0" pointList="-184,-684,-184,-676" />
 
-<item itemtype="Connector" uid="connector-14780" startpinid="Node-8306-2" endpinid="Node-8307-0" pointList="168,-684,108,-684" />
+<item itemtype="Connector" uid="connector-15697" startpinid="Node-7936-2" endpinid="Node-8333-0" pointList="-60,-572,0,-572" />
 
-<item itemtype="Connector" uid="connector-14781" startpinid="And Gate-8304-in0" endpinid="Node-8306-1" pointList="168,-676,168,-684" />
+<item itemtype="Connector" uid="connector-15698" startpinid="FlipFlopD-7987-in2" endpinid="Node-8860-0" pointList="396,-596,396,-572" />
 
-<item itemtype="Connector" uid="connector-14782" startpinid="Node-8307-2" endpinid="Node-8327-0" pointList="108,-684,48,-684" />
+<item itemtype="Connector" uid="connector-15699" startpinid="Node-7934-2" endpinid="Node-8345-0" pointList="-84,-588,-24,-588" />
 
-<item itemtype="Connector" uid="connector-14783" startpinid="And Gate-8305-out" endpinid="FlipFlopD-8298-in1" pointList="44,-644,44,-636" />
+<item itemtype="Connector" uid="connector-15700" startpinid="FlipFlopD-7987-in3" endpinid="Node-9616-0" pointList="372,-612,372,-588" />
 
-<item itemtype="Connector" uid="connector-14784" startpinid="And Gate-8308-out" endpinid="FlipFlopD-8299-in1" pointList="104,-644,104,-636" />
+<item itemtype="Connector" uid="connector-15701" startpinid="And Gate-8302-in0" endpinid="Node-8498-0" pointList="228,-676,228,-684" />
 
-<item itemtype="Connector" uid="connector-14785" startpinid="And Gate-8304-out" endpinid="FlipFlopD-8300-in1" pointList="164,-644,164,-636" />
+<item itemtype="Connector" uid="connector-15702" startpinid="And Gate-8308-in0" endpinid="Node-8307-1" pointList="108,-676,108,-684" />
 
-<item itemtype="Connector" uid="connector-14786" startpinid="And Gate-8302-out" endpinid="FlipFlopD-8301-in1" pointList="224,-644,224,-636" />
+<item itemtype="Connector" uid="connector-15703" startpinid="Node-8306-2" endpinid="Node-8307-0" pointList="168,-684,108,-684" />
 
-<item itemtype="Connector" uid="connector-14787" startpinid="Node-8324-2" endpinid="Node-7971-0" pointList="-4,-684,-64,-684" />
+<item itemtype="Connector" uid="connector-15704" startpinid="And Gate-8304-in0" endpinid="Node-8306-1" pointList="168,-676,168,-684" />
 
-<item itemtype="Connector" uid="connector-14788" startpinid="Node-8324-1" endpinid="Node-8327-1" pointList="-4,-684,48,-684" />
+<item itemtype="Connector" uid="connector-15705" startpinid="Node-8307-2" endpinid="Node-8327-0" pointList="108,-684,48,-684" />
 
-<item itemtype="Connector" uid="connector-14789" startpinid="Node-8327-2" endpinid="And Gate-8305-in0" pointList="48,-684,48,-676" />
+<item itemtype="Connector" uid="connector-15706" startpinid="And Gate-8305-out" endpinid="FlipFlopD-8298-in1" pointList="44,-644,44,-636" />
 
-<item itemtype="Connector" uid="connector-14790" startpinid="FlipFlopD-7933-out0" endpinid="FlipFlopD-8298-in0" pointList="16,-620,28,-620" />
+<item itemtype="Connector" uid="connector-15707" startpinid="And Gate-8308-out" endpinid="FlipFlopD-8299-in1" pointList="104,-644,104,-636" />
 
-<item itemtype="Connector" uid="connector-14791" startpinid="FlipFlopD-8298-out0" endpinid="FlipFlopD-8299-in0" pointList="68,-620,88,-620" />
+<item itemtype="Connector" uid="connector-15708" startpinid="And Gate-8304-out" endpinid="FlipFlopD-8300-in1" pointList="164,-644,164,-636" />
 
-<item itemtype="Connector" uid="connector-14792" startpinid="FlipFlopD-8299-out0" endpinid="FlipFlopD-8300-in0" pointList="128,-620,148,-620" />
+<item itemtype="Connector" uid="connector-15709" startpinid="And Gate-8302-out" endpinid="FlipFlopD-8301-in1" pointList="224,-644,224,-636" />
 
-<item itemtype="Connector" uid="connector-14793" startpinid="FlipFlopD-8300-out0" endpinid="FlipFlopD-8301-in0" pointList="188,-620,208,-620" />
+<item itemtype="Connector" uid="connector-15710" startpinid="Node-8324-2" endpinid="Node-7971-0" pointList="-4,-684,-64,-684" />
 
-<item itemtype="Connector" uid="connector-14794" startpinid="Node-8333-2" endpinid="FlipFlopD-7933-in2" pointList="0,-572,0,-596" />
+<item itemtype="Connector" uid="connector-15711" startpinid="Node-8324-1" endpinid="Node-8327-1" pointList="-4,-684,48,-684" />
 
-<item itemtype="Connector" uid="connector-14795" startpinid="Node-8333-1" endpinid="Node-8343-0" pointList="0,-572,52,-572" />
+<item itemtype="Connector" uid="connector-15712" startpinid="Node-8327-2" endpinid="And Gate-8305-in0" pointList="48,-684,48,-676" />
 
-<item itemtype="Connector" uid="connector-14796" startpinid="FlipFlopD-8300-in2" endpinid="Node-8337-1" pointList="172,-596,172,-572" />
+<item itemtype="Connector" uid="connector-15713" startpinid="FlipFlopD-7933-out0" endpinid="FlipFlopD-8298-in0" pointList="16,-620,28,-620" />
 
-<item itemtype="Connector" uid="connector-14797" startpinid="Node-8337-2" endpinid="Node-8491-0" pointList="172,-572,232,-572" />
+<item itemtype="Connector" uid="connector-15714" startpinid="FlipFlopD-8298-out0" endpinid="FlipFlopD-8299-in0" pointList="68,-620,88,-620" />
 
-<item itemtype="Connector" uid="connector-14798" startpinid="FlipFlopD-8299-in2" endpinid="Node-8340-1" pointList="112,-596,112,-572" />
+<item itemtype="Connector" uid="connector-15715" startpinid="FlipFlopD-8299-out0" endpinid="FlipFlopD-8300-in0" pointList="128,-620,148,-620" />
 
-<item itemtype="Connector" uid="connector-14799" startpinid="Node-8340-2" endpinid="Node-8337-0" pointList="112,-572,172,-572" />
+<item itemtype="Connector" uid="connector-15716" startpinid="FlipFlopD-8300-out0" endpinid="FlipFlopD-8301-in0" pointList="188,-620,208,-620" />
 
-<item itemtype="Connector" uid="connector-14800" startpinid="FlipFlopD-8298-in2" endpinid="Node-8343-1" pointList="52,-596,52,-572" />
+<item itemtype="Connector" uid="connector-15717" startpinid="Node-8333-2" endpinid="FlipFlopD-7933-in2" pointList="0,-572,0,-596" />
 
-<item itemtype="Connector" uid="connector-14801" startpinid="Node-8343-2" endpinid="Node-8340-0" pointList="52,-572,112,-572" />
+<item itemtype="Connector" uid="connector-15718" startpinid="Node-8333-1" endpinid="Node-8343-0" pointList="0,-572,52,-572" />
 
-<item itemtype="Connector" uid="connector-14802" startpinid="Node-8345-2" endpinid="FlipFlopD-7933-in3" pointList="-24,-588,-24,-612" />
+<item itemtype="Connector" uid="connector-15719" startpinid="FlipFlopD-8300-in2" endpinid="Node-8337-1" pointList="172,-596,172,-572" />
 
-<item itemtype="Connector" uid="connector-14803" startpinid="Node-8345-1" endpinid="Node-8355-0" pointList="-24,-588,28,-588" />
+<item itemtype="Connector" uid="connector-15720" startpinid="Node-8337-2" endpinid="Node-8491-0" pointList="172,-572,232,-572" />
 
-<item itemtype="Connector" uid="connector-14804" startpinid="FlipFlopD-8300-in3" endpinid="Node-8349-1" pointList="148,-612,148,-588" />
+<item itemtype="Connector" uid="connector-15721" startpinid="FlipFlopD-8299-in2" endpinid="Node-8340-1" pointList="112,-596,112,-572" />
 
-<item itemtype="Connector" uid="connector-14805" startpinid="Node-8349-2" endpinid="Node-8494-0" pointList="148,-588,208,-588" />
+<item itemtype="Connector" uid="connector-15722" startpinid="Node-8340-2" endpinid="Node-8337-0" pointList="112,-572,172,-572" />
 
-<item itemtype="Connector" uid="connector-14806" startpinid="FlipFlopD-8299-in3" endpinid="Node-8352-1" pointList="88,-612,88,-588" />
+<item itemtype="Connector" uid="connector-15723" startpinid="FlipFlopD-8298-in2" endpinid="Node-8343-1" pointList="52,-596,52,-572" />
 
-<item itemtype="Connector" uid="connector-14807" startpinid="Node-8352-2" endpinid="Node-8349-0" pointList="88,-588,148,-588" />
+<item itemtype="Connector" uid="connector-15724" startpinid="Node-8343-2" endpinid="Node-8340-0" pointList="52,-572,112,-572" />
 
-<item itemtype="Connector" uid="connector-14808" startpinid="FlipFlopD-8298-in3" endpinid="Node-8355-1" pointList="28,-612,28,-588" />
+<item itemtype="Connector" uid="connector-15725" startpinid="Node-8345-2" endpinid="FlipFlopD-7933-in3" pointList="-24,-588,-24,-612" />
 
-<item itemtype="Connector" uid="connector-14809" startpinid="Node-8355-2" endpinid="Node-8352-0" pointList="28,-588,88,-588" />
+<item itemtype="Connector" uid="connector-15726" startpinid="Node-8345-1" endpinid="Node-8355-0" pointList="-24,-588,28,-588" />
 
-<item itemtype="Connector" uid="connector-14810" startpinid="And Gate-8302-in1" endpinid="Node-14103-0" pointList="220,-676,220,-740" />
+<item itemtype="Connector" uid="connector-15727" startpinid="FlipFlopD-8300-in3" endpinid="Node-8349-1" pointList="148,-612,148,-588" />
 
-<item itemtype="Connector" uid="connector-14811" startpinid="Fixed Voltage-7940-outnod" endpinid="Node-13809-0" pointList="100,-772,100,-732" />
+<item itemtype="Connector" uid="connector-15728" startpinid="Node-8349-2" endpinid="Node-8494-0" pointList="148,-588,208,-588" />
 
-<item itemtype="Connector" uid="connector-14812" startpinid="And Gate-8305-in1" endpinid="Node-13806-0" pointList="40,-676,40,-728" />
+<item itemtype="Connector" uid="connector-15729" startpinid="FlipFlopD-8299-in3" endpinid="Node-8352-1" pointList="88,-612,88,-588" />
 
-<item itemtype="Connector" uid="connector-14813" startpinid="Fixed Voltage-8472-outnod" endpinid="Node-13803-0" pointList="-12,-772,-12,-724" />
+<item itemtype="Connector" uid="connector-15730" startpinid="Node-8352-2" endpinid="Node-8349-0" pointList="88,-588,148,-588" />
 
-<item itemtype="Connector" uid="connector-14814" startpinid="Fixed Voltage-8469-outnod" endpinid="Node-13800-0" pointList="-72,-772,-72,-720" />
+<item itemtype="Connector" uid="connector-15731" startpinid="FlipFlopD-8298-in3" endpinid="Node-8355-1" pointList="28,-612,28,-588" />
 
-<item itemtype="Connector" uid="connector-14815" startpinid="Fixed Voltage-8470-outnod" endpinid="Node-13788-0" pointList="-192,-772,-192,-712" />
+<item itemtype="Connector" uid="connector-15732" startpinid="Node-8355-2" endpinid="Node-8352-0" pointList="28,-588,88,-588" />
 
-<item itemtype="Connector" uid="connector-14816" startpinid="And Gate-8481-out" endpinid="FlipFlopD-8483-in1" pointList="308,-644,308,-636" />
+<item itemtype="Connector" uid="connector-15733" startpinid="And Gate-8302-in1" endpinid="Node-14103-0" pointList="220,-676,220,-740" />
 
-<item itemtype="Connector" uid="connector-14817" startpinid="FlipFlopD-8483-in0" endpinid="FlipFlopD-8301-out0" pointList="292,-620,248,-620" />
+<item itemtype="Connector" uid="connector-15734" startpinid="Fixed Voltage-7940-outnod" endpinid="Node-13809-0" pointList="100,-772,100,-732" />
 
-<item itemtype="Connector" uid="connector-14818" startpinid="Node-8491-2" endpinid="FlipFlopD-8301-in2" pointList="232,-572,232,-596" />
+<item itemtype="Connector" uid="connector-15735" startpinid="And Gate-8305-in1" endpinid="Node-13806-0" pointList="40,-676,40,-728" />
 
-<item itemtype="Connector" uid="connector-14819" startpinid="Node-8491-1" endpinid="Node-8857-0" pointList="232,-572,316,-572" />
+<item itemtype="Connector" uid="connector-15736" startpinid="Fixed Voltage-8472-outnod" endpinid="Node-13803-0" pointList="-12,-772,-12,-724" />
 
-<item itemtype="Connector" uid="connector-14820" startpinid="Node-8494-2" endpinid="FlipFlopD-8301-in3" pointList="208,-588,208,-612" />
+<item itemtype="Connector" uid="connector-15737" startpinid="Fixed Voltage-8469-outnod" endpinid="Node-13800-0" pointList="-72,-772,-72,-720" />
 
-<item itemtype="Connector" uid="connector-14821" startpinid="Node-8494-1" endpinid="Node-9613-0" pointList="208,-588,292,-588" />
+<item itemtype="Connector" uid="connector-15738" startpinid="Fixed Voltage-8470-outnod" endpinid="Node-13788-0" pointList="-192,-772,-192,-712" />
 
-<item itemtype="Connector" uid="connector-14822" startpinid="And Gate-8481-in0" endpinid="Node-8498-1" pointList="312,-676,312,-684,228,-684" />
+<item itemtype="Connector" uid="connector-15739" startpinid="And Gate-8481-out" endpinid="FlipFlopD-8483-in1" pointList="276,-644,276,-636" />
 
-<item itemtype="Connector" uid="connector-14823" startpinid="Node-8498-2" endpinid="Node-8306-0" pointList="228,-684,168,-684" />
+<item itemtype="Connector" uid="connector-15740" startpinid="FlipFlopD-8483-in0" endpinid="FlipFlopD-8301-out0" pointList="260,-620,248,-620" />
 
-<item itemtype="Connector" uid="connector-14824" startpinid="FlipFlopD-8502-in2" endpinid="Node-8513-1" pointList="700,-596,700,-572" />
+<item itemtype="Connector" uid="connector-15741" startpinid="Node-8491-2" endpinid="FlipFlopD-8301-in2" pointList="232,-572,232,-596" />
 
-<item itemtype="Connector" uid="connector-14825" startpinid="Node-8506-2" endpinid="Node-8507-0" pointList="676,-588,736,-588" />
+<item itemtype="Connector" uid="connector-15742" startpinid="Node-8491-1" endpinid="Node-8857-0" pointList="232,-572,284,-572" />
 
-<item itemtype="Connector" uid="connector-14826" startpinid="Node-8513-2" endpinid="Node-8505-0" pointList="700,-572,760,-572" />
+<item itemtype="Connector" uid="connector-15743" startpinid="Node-8494-2" endpinid="FlipFlopD-8301-in3" pointList="208,-588,208,-612" />
 
-<item itemtype="Connector" uid="connector-14827" startpinid="FlipFlopD-8503-in2" endpinid="Node-8541-0" pointList="640,-596,640,-572" />
+<item itemtype="Connector" uid="connector-15744" startpinid="Node-8494-1" endpinid="Node-9613-0" pointList="208,-588,260,-588" />
 
-<item itemtype="Connector" uid="connector-14828" startpinid="FlipFlopD-8502-in3" endpinid="Node-8506-1" pointList="676,-612,676,-588" />
+<item itemtype="Connector" uid="connector-15745" startpinid="And Gate-8481-in0" endpinid="Node-8498-1" pointList="280,-676,280,-684,228,-684" />
 
-<item itemtype="Connector" uid="connector-14829" startpinid="FlipFlopD-8503-in3" endpinid="Node-8546-0" pointList="616,-612,616,-588" />
+<item itemtype="Connector" uid="connector-15746" startpinid="Node-8498-2" endpinid="Node-8306-0" pointList="228,-684,168,-684" />
 
-<item itemtype="Connector" uid="connector-14830" startpinid="Node-8501-2" endpinid="FlipFlopD-8509-in0" pointList="788,-620,796,-620" />
+<item itemtype="Connector" uid="connector-15747" startpinid="FlipFlopD-8502-in2" endpinid="Node-8513-1" pointList="700,-596,700,-572" />
 
-<item itemtype="Connector" uid="connector-14831" startpinid="Node-8505-2" endpinid="Node-8702-0" pointList="760,-572,820,-572" />
+<item itemtype="Connector" uid="connector-15748" startpinid="Node-8506-2" endpinid="Node-8507-0" pointList="676,-588,736,-588" />
 
-<item itemtype="Connector" uid="connector-14832" startpinid="Node-8507-2" endpinid="Node-8697-0" pointList="736,-588,796,-588" />
+<item itemtype="Connector" uid="connector-15749" startpinid="Node-8513-2" endpinid="Node-8505-0" pointList="700,-572,760,-572" />
 
-<item itemtype="Connector" uid="connector-14833" startpinid="FlipFlopD-8511-in3" endpinid="Node-8507-1" pointList="736,-612,736,-588" />
+<item itemtype="Connector" uid="connector-15750" startpinid="FlipFlopD-8503-in2" endpinid="Node-8541-0" pointList="640,-596,640,-572" />
 
-<item itemtype="Connector" uid="connector-14834" startpinid="FlipFlopD-8511-in2" endpinid="Node-8505-1" pointList="760,-596,760,-572" />
+<item itemtype="Connector" uid="connector-15751" startpinid="FlipFlopD-8502-in3" endpinid="Node-8506-1" pointList="676,-612,676,-588" />
 
-<item itemtype="Connector" uid="connector-14835" startpinid="Node-8514-2" endpinid="FlipFlopD-8502-in0" pointList="664,-620,676,-620" />
+<item itemtype="Connector" uid="connector-15752" startpinid="FlipFlopD-8503-in3" endpinid="Node-8546-0" pointList="616,-612,616,-588" />
 
-<item itemtype="Connector" uid="connector-14836" startpinid="FlipFlopD-8502-out0" endpinid="Node-8510-0" pointList="716,-620,724,-620" />
+<item itemtype="Connector" uid="connector-15753" startpinid="Node-8505-2" endpinid="Node-8702-0" pointList="760,-572,820,-572" />
 
-<item itemtype="Connector" uid="connector-14837" startpinid="FlipFlopD-8511-out0" endpinid="Node-8501-0" pointList="776,-620,788,-620" />
+<item itemtype="Connector" uid="connector-15754" startpinid="Node-8507-2" endpinid="Node-8697-0" pointList="736,-588,796,-588" />
 
-<item itemtype="Connector" uid="connector-14838" startpinid="Node-8510-2" endpinid="FlipFlopD-8511-in0" pointList="724,-620,736,-620" />
+<item itemtype="Connector" uid="connector-15755" startpinid="FlipFlopD-8511-in3" endpinid="Node-8507-1" pointList="736,-612,736,-588" />
 
-<item itemtype="Connector" uid="connector-14839" startpinid="FlipFlopD-8503-out0" endpinid="Node-8514-0" pointList="656,-620,664,-620" />
+<item itemtype="Connector" uid="connector-15756" startpinid="FlipFlopD-8511-in2" endpinid="Node-8505-1" pointList="760,-596,760,-572" />
 
-<item itemtype="Connector" uid="connector-14840" startpinid="Node-8535-2" endpinid="FlipFlopD-7941-out0" pointList="596,-620,592,-620" />
+<item itemtype="Connector" uid="connector-15757" startpinid="FlipFlopD-8502-out0" endpinid="Node-8510-0" pointList="716,-620,724,-620" />
 
-<item itemtype="Connector" uid="connector-14841" startpinid="Node-8535-1" endpinid="FlipFlopD-8503-in0" pointList="596,-620,616,-620" />
+<item itemtype="Connector" uid="connector-15758" startpinid="FlipFlopD-8511-out0" endpinid="Node-15633-0" pointList="776,-620,788,-620" />
 
-<item itemtype="Connector" uid="connector-14842" startpinid="Node-8538-2" endpinid="FlipFlopD-7941-in2" pointList="576,-572,576,-596" />
+<item itemtype="Connector" uid="connector-15759" startpinid="FlipFlopD-8503-out0" endpinid="Node-8514-0" pointList="656,-620,664,-620" />
 
-<item itemtype="Connector" uid="connector-14843" startpinid="Node-8538-1" endpinid="Node-8541-1" pointList="576,-572,640,-572" />
+<item itemtype="Connector" uid="connector-15760" startpinid="Node-8535-2" endpinid="FlipFlopD-7941-out0" pointList="596,-620,592,-620" />
 
-<item itemtype="Connector" uid="connector-14844" startpinid="Node-8541-2" endpinid="Node-8513-0" pointList="640,-572,700,-572" />
+<item itemtype="Connector" uid="connector-15761" startpinid="Node-8538-2" endpinid="FlipFlopD-7941-in2" pointList="576,-572,576,-596" />
 
-<item itemtype="Connector" uid="connector-14845" startpinid="Node-8543-2" endpinid="FlipFlopD-7941-in3" pointList="552,-588,552,-612" />
+<item itemtype="Connector" uid="connector-15762" startpinid="Node-8538-1" endpinid="Node-8541-1" pointList="576,-572,640,-572" />
 
-<item itemtype="Connector" uid="connector-14846" startpinid="Node-8543-1" endpinid="Node-8546-1" pointList="552,-588,616,-588" />
+<item itemtype="Connector" uid="connector-15763" startpinid="Node-8541-2" endpinid="Node-8513-0" pointList="640,-572,700,-572" />
 
-<item itemtype="Connector" uid="connector-14847" startpinid="Node-8546-2" endpinid="Node-8506-0" pointList="616,-588,676,-588" />
+<item itemtype="Connector" uid="connector-15764" startpinid="Node-8543-2" endpinid="FlipFlopD-7941-in3" pointList="552,-588,552,-612" />
 
-<item itemtype="Connector" uid="connector-14848" startpinid="FlipFlopD-8693-in0" endpinid="Node-8695-1" pointList="860,-620,840,-620" />
+<item itemtype="Connector" uid="connector-15765" startpinid="Node-8543-1" endpinid="Node-8546-1" pointList="552,-588,616,-588" />
 
-<item itemtype="Connector" uid="connector-14849" startpinid="Node-8695-2" endpinid="FlipFlopD-8509-out0" pointList="840,-620,836,-620" />
+<item itemtype="Connector" uid="connector-15766" startpinid="Node-8546-2" endpinid="Node-8506-0" pointList="616,-588,676,-588" />
 
-<item itemtype="Connector" uid="connector-14850" startpinid="Node-8697-2" endpinid="FlipFlopD-8509-in3" pointList="796,-588,796,-612" />
+<item itemtype="Connector" uid="connector-15767" startpinid="Node-8695-2" endpinid="FlipFlopD-8509-out0" pointList="840,-620,836,-620" />
 
-<item itemtype="Connector" uid="connector-14851" startpinid="Node-8697-1" endpinid="FlipFlopD-8693-in3" pointList="796,-588,860,-588,860,-612" />
+<item itemtype="Connector" uid="connector-15768" startpinid="Node-8697-2" endpinid="FlipFlopD-8509-in3" pointList="796,-588,796,-612" />
 
-<item itemtype="Connector" uid="connector-14852" startpinid="Node-8702-2" endpinid="FlipFlopD-8509-in2" pointList="820,-572,820,-596" />
+<item itemtype="Connector" uid="connector-15769" startpinid="Node-8697-1" endpinid="FlipFlopD-8693-in3" pointList="796,-588,860,-588,860,-612" />
 
-<item itemtype="Connector" uid="connector-14853" startpinid="Node-8702-1" endpinid="FlipFlopD-8693-in2" pointList="820,-572,884,-572,884,-596" />
+<item itemtype="Connector" uid="connector-15770" startpinid="Node-8702-2" endpinid="FlipFlopD-8509-in2" pointList="820,-572,820,-596" />
 
-<item itemtype="Connector" uid="connector-14854" startpinid="FlipFlopD-8483-out0" endpinid="FlipFlopD-7987-in0" pointList="332,-620,372,-620" />
+<item itemtype="Connector" uid="connector-15771" startpinid="Node-8702-1" endpinid="FlipFlopD-8693-in2" pointList="820,-572,884,-572,884,-596" />
 
-<item itemtype="Connector" uid="connector-14855" startpinid="Node-8857-2" endpinid="FlipFlopD-8483-in2" pointList="316,-572,316,-596" />
+<item itemtype="Connector" uid="connector-15772" startpinid="FlipFlopD-8483-out0" endpinid="FlipFlopD-7987-in0" pointList="300,-620,372,-620" />
 
-<item itemtype="Connector" uid="connector-14856" startpinid="Node-8857-1" endpinid="Node-8860-1" pointList="316,-572,396,-572" />
+<item itemtype="Connector" uid="connector-15773" startpinid="Node-8857-2" endpinid="FlipFlopD-8483-in2" pointList="284,-572,284,-596" />
 
-<item itemtype="Connector" uid="connector-14857" startpinid="Node-8860-2" endpinid="Node-7960-0" pointList="396,-572,456,-572" />
+<item itemtype="Connector" uid="connector-15774" startpinid="Node-8857-1" endpinid="Node-8860-1" pointList="284,-572,396,-572" />
 
-<item itemtype="Connector" uid="connector-14858" startpinid="BcdTo7S-8862-out5" endpinid="Resistor-8868-lPin" pointList="716,-876,716,-884,732,-884" />
+<item itemtype="Connector" uid="connector-15775" startpinid="Node-8860-2" endpinid="Node-7960-0" pointList="396,-572,456,-572" />
 
-<item itemtype="Connector" uid="connector-14859" startpinid="BcdTo7S-8862-out6" endpinid="Resistor-8863-lPin" pointList="724,-876,732,-876" />
+<item itemtype="Connector" uid="connector-15776" startpinid="BcdTo7S-8862-out5" endpinid="Resistor-8868-lPin" pointList="716,-876,716,-884,732,-884" />
 
-<item itemtype="Connector" uid="connector-14860" startpinid="BcdTo7S-8862-out2" endpinid="Resistor-8867-lPin" pointList="692,-876,692,-908,732,-908" />
+<item itemtype="Connector" uid="connector-15777" startpinid="BcdTo7S-8862-out6" endpinid="Resistor-8863-lPin" pointList="724,-876,732,-876" />
 
-<item itemtype="Connector" uid="connector-14861" startpinid="Resistor-8867-rPin" endpinid="Seven Segment-8866-pin_c" pointList="764,-908,764,-908" />
+<item itemtype="Connector" uid="connector-15778" startpinid="BcdTo7S-8862-out2" endpinid="Resistor-8867-lPin" pointList="692,-876,692,-908,732,-908" />
 
-<item itemtype="Connector" uid="connector-14862" startpinid="Resistor-8870-lPin" endpinid="BcdTo7S-8862-out1" pointList="732,-916,684,-916,684,-876" />
+<item itemtype="Connector" uid="connector-15779" startpinid="Resistor-8867-rPin" endpinid="Seven Segment-8866-pin_c" pointList="764,-908,764,-908" />
 
-<item itemtype="Connector" uid="connector-14863" startpinid="Resistor-8870-rPin" endpinid="Seven Segment-8866-pin_b" pointList="764,-916,764,-916" />
+<item itemtype="Connector" uid="connector-15780" startpinid="Resistor-8870-lPin" endpinid="BcdTo7S-8862-out1" pointList="732,-916,684,-916,684,-876" />
 
-<item itemtype="Connector" uid="connector-14864" startpinid="Resistor-8871-rPin" endpinid="Seven Segment-8866-pin_e" pointList="764,-892,764,-892" />
+<item itemtype="Connector" uid="connector-15781" startpinid="Resistor-8870-rPin" endpinid="Seven Segment-8866-pin_b" pointList="764,-916,764,-916" />
 
-<item itemtype="Connector" uid="connector-14865" startpinid="BcdTo7S-8862-out4" endpinid="Resistor-8871-lPin" pointList="708,-876,708,-892,732,-892" />
+<item itemtype="Connector" uid="connector-15782" startpinid="Resistor-8871-rPin" endpinid="Seven Segment-8866-pin_e" pointList="764,-892,764,-892" />
 
-<item itemtype="Connector" uid="connector-14866" startpinid="Resistor-8868-rPin" endpinid="Seven Segment-8866-pin_f" pointList="764,-884,764,-884" />
+<item itemtype="Connector" uid="connector-15783" startpinid="BcdTo7S-8862-out4" endpinid="Resistor-8871-lPin" pointList="708,-876,708,-892,732,-892" />
 
-<item itemtype="Connector" uid="connector-14867" startpinid="BcdTo7S-8862-out0" endpinid="Resistor-8869-lPin" pointList="676,-876,676,-924,732,-924" />
+<item itemtype="Connector" uid="connector-15784" startpinid="Resistor-8868-rPin" endpinid="Seven Segment-8866-pin_f" pointList="764,-884,764,-884" />
 
-<item itemtype="Connector" uid="connector-14868" startpinid="Resistor-8869-rPin" endpinid="Seven Segment-8866-pin_a" pointList="764,-924,764,-924" />
+<item itemtype="Connector" uid="connector-15785" startpinid="BcdTo7S-8862-out0" endpinid="Resistor-8869-lPin" pointList="676,-876,676,-924,732,-924" />
 
-<item itemtype="Connector" uid="connector-14869" startpinid="BcdTo7S-8862-out3" endpinid="Resistor-8865-lPin" pointList="700,-876,700,-900,732,-900" />
+<item itemtype="Connector" uid="connector-15786" startpinid="Resistor-8869-rPin" endpinid="Seven Segment-8866-pin_a" pointList="764,-924,764,-924" />
 
-<item itemtype="Connector" uid="connector-14870" startpinid="Seven Segment-8866-pin_commona" endpinid="Ground-8864-Gnd" pointList="796,-868,796,-868" />
+<item itemtype="Connector" uid="connector-15787" startpinid="BcdTo7S-8862-out3" endpinid="Resistor-8865-lPin" pointList="700,-876,700,-900,732,-900" />
 
-<item itemtype="Connector" uid="connector-14871" startpinid="Resistor-8865-rPin" endpinid="Seven Segment-8866-pin_d" pointList="764,-900,764,-900" />
+<item itemtype="Connector" uid="connector-15788" startpinid="Seven Segment-8866-pin_commona" endpinid="Ground-8864-Gnd" pointList="796,-868,796,-868" />
 
-<item itemtype="Connector" uid="connector-14872" startpinid="Resistor-8863-rPin" endpinid="Seven Segment-8866-pin_g" pointList="764,-876,764,-876" />
+<item itemtype="Connector" uid="connector-15789" startpinid="Resistor-8865-rPin" endpinid="Seven Segment-8866-pin_d" pointList="764,-900,764,-900" />
 
-<item itemtype="Connector" uid="connector-14873" startpinid="Node-9613-2" endpinid="FlipFlopD-8483-in3" pointList="292,-588,292,-612" />
+<item itemtype="Connector" uid="connector-15790" startpinid="Resistor-8863-rPin" endpinid="Seven Segment-8866-pin_g" pointList="764,-876,764,-876" />
 
-<item itemtype="Connector" uid="connector-14874" startpinid="Node-9613-1" endpinid="Node-9616-1" pointList="292,-588,372,-588" />
+<item itemtype="Connector" uid="connector-15791" startpinid="Node-9613-2" endpinid="FlipFlopD-8483-in3" pointList="260,-588,260,-612" />
 
-<item itemtype="Connector" uid="connector-14875" startpinid="Node-10428-1" endpinid="And Gate-10407-in3" pointList="52,-452,52,-416,8,-416,8,-384,12,-384" />
+<item itemtype="Connector" uid="connector-15792" startpinid="Node-9613-1" endpinid="Node-9616-1" pointList="260,-588,372,-588" />
 
-<item itemtype="Connector" uid="connector-14876" startpinid="Node-10426-2" endpinid="FlipFlopT-10417-in1" pointList="24,-468,24,-468" />
+<item itemtype="Connector" uid="connector-15793" startpinid="Node-10428-1" endpinid="And Gate-10407-in3" pointList="52,-452,52,-416,8,-416,8,-384,12,-384" />
 
-<item itemtype="Connector" uid="connector-14877" startpinid="Resistor-10425-lPin" endpinid="BcdTo7S-10405-out0" pointList="132,-504,128,-504" />
+<item itemtype="Connector" uid="connector-15794" startpinid="Node-10426-2" endpinid="FlipFlopT-10417-in1" pointList="24,-468,24,-468" />
 
-<item itemtype="Connector" uid="connector-14878" startpinid="FlipFlopT-10415-in0" endpinid="Node-10413-0" pointList="-44,-452,-44,-468,-28,-468" />
+<item itemtype="Connector" uid="connector-15795" startpinid="Resistor-10425-lPin" endpinid="BcdTo7S-10405-out0" pointList="132,-504,128,-504" />
 
-<item itemtype="Connector" uid="connector-14879" startpinid="Node-10423-2" endpinid="And Gate-10407-out" pointList="32,-424,48,-424,48,-396,44,-396" />
+<item itemtype="Connector" uid="connector-15796" startpinid="FlipFlopT-10415-in0" endpinid="Node-10413-0" pointList="-44,-452,-44,-468,-28,-468" />
 
-<item itemtype="Connector" uid="connector-14880" startpinid="FlipFlopT-10432-in0" endpinid="Node-10427-0" pointList="-96,-452,-96,-468,-80,-468" />
+<item itemtype="Connector" uid="connector-15797" startpinid="Node-10423-2" endpinid="And Gate-10407-out" pointList="32,-424,48,-424,48,-396,44,-396" />
 
-<item itemtype="Connector" uid="connector-14881" startpinid="FlipFlopT-10415-out0" endpinid="BcdTo7S-10405-in2" pointList="-4,-452,0,-452,0,-472,80,-472" />
+<item itemtype="Connector" uid="connector-15798" startpinid="FlipFlopT-10432-in0" endpinid="Node-10427-0" pointList="-96,-452,-96,-468,-80,-468" />
 
-<item itemtype="Connector" uid="connector-14882" startpinid="Node-10410-2" endpinid="Node-10406-0" pointList="-80,-496,-28,-496" />
+<item itemtype="Connector" uid="connector-15799" startpinid="FlipFlopT-10415-out0" endpinid="BcdTo7S-10405-in2" pointList="-4,-452,0,-452,0,-472,80,-472" />
 
-<item itemtype="Connector" uid="connector-14883" startpinid="Resistor-10403-lPin" endpinid="BcdTo7S-10405-out1" pointList="132,-496,128,-496" />
+<item itemtype="Connector" uid="connector-15800" startpinid="Node-10410-2" endpinid="Node-10406-0" pointList="-80,-496,-28,-496" />
 
-<item itemtype="Connector" uid="connector-14884" startpinid="Node-10434-2" endpinid="Node-10424-0" pointList="-72,-424,-20,-424" />
+<item itemtype="Connector" uid="connector-15801" startpinid="Resistor-10403-lPin" endpinid="BcdTo7S-10405-out1" pointList="132,-496,128,-496" />
 
-<item itemtype="Connector" uid="connector-14885" startpinid="Resistor-10420-lPin" endpinid="BcdTo7S-10405-out3" pointList="132,-480,128,-480" />
+<item itemtype="Connector" uid="connector-15802" startpinid="Node-10434-2" endpinid="Node-10424-0" pointList="-72,-424,-20,-424" />
 
-<item itemtype="Connector" uid="connector-14886" startpinid="Resistor-10412-lPin" endpinid="BcdTo7S-10405-out6" pointList="132,-456,128,-456" />
+<item itemtype="Connector" uid="connector-15803" startpinid="Resistor-10420-lPin" endpinid="BcdTo7S-10405-out3" pointList="132,-480,128,-480" />
 
-<item itemtype="Connector" uid="connector-14887" startpinid="FlipFlopT-10417-in0" endpinid="Node-10426-1" pointList="8,-452,8,-468,24,-468" />
+<item itemtype="Connector" uid="connector-15804" startpinid="Resistor-10412-lPin" endpinid="BcdTo7S-10405-out6" pointList="132,-456,128,-456" />
 
-<item itemtype="Connector" uid="connector-14888" startpinid="FlipFlopT-10421-in0" endpinid="Node-10419-0" pointList="-148,-452,-148,-468,-132,-468" />
+<item itemtype="Connector" uid="connector-15805" startpinid="FlipFlopT-10417-in0" endpinid="Node-10426-1" pointList="8,-452,8,-468,24,-468" />
 
-<item itemtype="Connector" uid="connector-14889" startpinid="Node-10406-2" endpinid="Node-10426-0" pointList="-28,-496,24,-496,24,-468" />
+<item itemtype="Connector" uid="connector-15806" startpinid="FlipFlopT-10421-in0" endpinid="Node-10419-0" pointList="-148,-452,-148,-468,-132,-468" />
 
-<item itemtype="Connector" uid="connector-14890" startpinid="FlipFlopT-10432-in2" endpinid="Node-10434-1" pointList="-72,-428,-72,-424" />
+<item itemtype="Connector" uid="connector-15807" startpinid="Node-10406-2" endpinid="Node-10426-0" pointList="-28,-496,24,-496,24,-468" />
 
-<item itemtype="Connector" uid="connector-14891" startpinid="And Gate-10431-in0" endpinid="Clock-10402-outnod" pointList="-220,-448,-240,-448" />
+<item itemtype="Connector" uid="connector-15808" startpinid="FlipFlopT-10432-in2" endpinid="Node-10434-1" pointList="-72,-428,-72,-424" />
 
-<item itemtype="Connector" uid="connector-14892" startpinid="Node-10413-2" endpinid="FlipFlopT-10415-in1" pointList="-28,-468,-28,-468" />
+<item itemtype="Connector" uid="connector-15809" startpinid="And Gate-10431-in0" endpinid="Clock-10402-outnod" pointList="-220,-448,-240,-448" />
 
-<item itemtype="Connector" uid="connector-14893" startpinid="FlipFlopT-10421-out1" endpinid="Node-10416-0" pointList="-108,-444,-108,-444" />
+<item itemtype="Connector" uid="connector-15810" startpinid="Node-10413-2" endpinid="FlipFlopT-10415-in1" pointList="-28,-468,-28,-468" />
 
-<item itemtype="Connector" uid="connector-14894" startpinid="Seven Segment-10414-pin_commona" endpinid="Ground-10433-Gnd" pointList="200,-448,200,-440" />
+<item itemtype="Connector" uid="connector-15811" startpinid="FlipFlopT-10421-out1" endpinid="Node-10416-0" pointList="-108,-444,-108,-444" />
 
-<item itemtype="Connector" uid="connector-14895" startpinid="Resistor-10429-lPin" endpinid="BcdTo7S-10405-out2" pointList="132,-488,128,-488" />
+<item itemtype="Connector" uid="connector-15812" startpinid="Seven Segment-10414-pin_commona" endpinid="Ground-10433-Gnd" pointList="200,-448,200,-440" />
 
-<item itemtype="Connector" uid="connector-14896" startpinid="FlipFlopT-10432-out1" endpinid="FlipFlopT-10415-in3" pointList="-56,-444,-44,-444" />
+<item itemtype="Connector" uid="connector-15813" startpinid="Resistor-10429-lPin" endpinid="BcdTo7S-10405-out2" pointList="132,-488,128,-488" />
 
-<item itemtype="Connector" uid="connector-14897" startpinid="Resistor-10429-rPin" endpinid="Seven Segment-10414-pin_c" pointList="164,-488,168,-488" />
+<item itemtype="Connector" uid="connector-15814" startpinid="FlipFlopT-10432-out1" endpinid="FlipFlopT-10415-in3" pointList="-56,-444,-44,-444" />
 
-<item itemtype="Connector" uid="connector-14898" startpinid="Node-10401-1" endpinid="And Gate-10407-in0" pointList="-4,-444,-4,-408,12,-408" />
+<item itemtype="Connector" uid="connector-15815" startpinid="Resistor-10429-rPin" endpinid="Seven Segment-10414-pin_c" pointList="164,-488,168,-488" />
 
-<item itemtype="Connector" uid="connector-14899" startpinid="FlipFlopT-10415-out1" endpinid="Node-10401-0" pointList="-4,-444,-4,-444" />
+<item itemtype="Connector" uid="connector-15816" startpinid="Node-10401-1" endpinid="And Gate-10407-in0" pointList="-4,-444,-4,-408,12,-408" />
 
-<item itemtype="Connector" uid="connector-14900" startpinid="FlipFlopT-10415-in2" endpinid="Node-10424-1" pointList="-20,-428,-20,-424" />
+<item itemtype="Connector" uid="connector-15817" startpinid="FlipFlopT-10415-out1" endpinid="Node-10401-0" pointList="-4,-444,-4,-444" />
 
-<item itemtype="Connector" uid="connector-14901" startpinid="Resistor-10412-rPin" endpinid="Seven Segment-10414-pin_g" pointList="164,-456,168,-456" />
+<item itemtype="Connector" uid="connector-15818" startpinid="FlipFlopT-10415-in2" endpinid="Node-10424-1" pointList="-20,-428,-20,-424" />
 
-<item itemtype="Connector" uid="connector-14902" startpinid="Resistor-10418-rPin" endpinid="Seven Segment-10414-pin_e" pointList="164,-472,168,-472" />
+<item itemtype="Connector" uid="connector-15819" startpinid="Resistor-10412-rPin" endpinid="Seven Segment-10414-pin_g" pointList="164,-456,168,-456" />
 
-<item itemtype="Connector" uid="connector-14903" startpinid="Node-10401-2" endpinid="FlipFlopT-10417-in3" pointList="-4,-444,8,-444" />
+<item itemtype="Connector" uid="connector-15820" startpinid="Resistor-10418-rPin" endpinid="Seven Segment-10414-pin_e" pointList="164,-472,168,-472" />
 
-<item itemtype="Connector" uid="connector-14904" startpinid="Node-10427-1" endpinid="Node-10410-1" pointList="-80,-468,-80,-496" />
+<item itemtype="Connector" uid="connector-15821" startpinid="Node-10401-2" endpinid="FlipFlopT-10417-in3" pointList="-4,-444,8,-444" />
 
-<item itemtype="Connector" uid="connector-14905" startpinid="Node-10427-2" endpinid="FlipFlopT-10432-in1" pointList="-80,-468,-80,-468" />
+<item itemtype="Connector" uid="connector-15822" startpinid="Node-10427-1" endpinid="Node-10410-1" pointList="-80,-468,-80,-496" />
 
-<item itemtype="Connector" uid="connector-14906" startpinid="Node-10424-2" endpinid="Node-10423-0" pointList="-20,-424,32,-424" />
+<item itemtype="Connector" uid="connector-15823" startpinid="Node-10427-2" endpinid="FlipFlopT-10432-in1" pointList="-80,-468,-80,-468" />
 
-<item itemtype="Connector" uid="connector-14907" startpinid="Node-10406-1" endpinid="Node-10413-1" pointList="-28,-496,-28,-468" />
+<item itemtype="Connector" uid="connector-15824" startpinid="Node-10424-2" endpinid="Node-10423-0" pointList="-20,-424,32,-424" />
 
-<item itemtype="Connector" uid="connector-14908" startpinid="Resistor-10403-rPin" endpinid="Seven Segment-10414-pin_b" pointList="164,-496,168,-496" />
+<item itemtype="Connector" uid="connector-15825" startpinid="Node-10406-1" endpinid="Node-10413-1" pointList="-28,-496,-28,-468" />
 
-<item itemtype="Connector" uid="connector-14909" startpinid="Node-10428-2" endpinid="FlipFlopT-10417-out0" pointList="52,-452,48,-452" />
+<item itemtype="Connector" uid="connector-15826" startpinid="Resistor-10403-rPin" endpinid="Seven Segment-10414-pin_b" pointList="164,-496,168,-496" />
 
-<item itemtype="Connector" uid="connector-14910" startpinid="Node-10419-2" endpinid="FlipFlopT-10421-in1" pointList="-132,-468,-132,-468" />
+<item itemtype="Connector" uid="connector-15827" startpinid="Node-10428-2" endpinid="FlipFlopT-10417-out0" pointList="52,-452,48,-452" />
 
-<item itemtype="Connector" uid="connector-14911" startpinid="Node-10416-2" endpinid="FlipFlopT-10432-in3" pointList="-108,-444,-96,-444" />
+<item itemtype="Connector" uid="connector-15828" startpinid="Node-10419-2" endpinid="FlipFlopT-10421-in1" pointList="-132,-468,-132,-468" />
 
-<item itemtype="Connector" uid="connector-14912" startpinid="Resistor-10404-rPin" endpinid="Seven Segment-10414-pin_f" pointList="164,-464,168,-464" />
+<item itemtype="Connector" uid="connector-15829" startpinid="Node-10416-2" endpinid="FlipFlopT-10432-in3" pointList="-108,-444,-96,-444" />
 
-<item itemtype="Connector" uid="connector-14913" startpinid="Resistor-10425-rPin" endpinid="Seven Segment-10414-pin_a" pointList="164,-504,168,-504" />
+<item itemtype="Connector" uid="connector-15830" startpinid="Resistor-10404-rPin" endpinid="Seven Segment-10414-pin_f" pointList="164,-464,168,-464" />
 
-<item itemtype="Connector" uid="connector-14914" startpinid="Resistor-10404-lPin" endpinid="BcdTo7S-10405-out5" pointList="132,-464,128,-464" />
+<item itemtype="Connector" uid="connector-15831" startpinid="Resistor-10425-rPin" endpinid="Seven Segment-10414-pin_a" pointList="164,-504,168,-504" />
 
-<item itemtype="Connector" uid="connector-14915" startpinid="Resistor-10418-lPin" endpinid="BcdTo7S-10405-out4" pointList="132,-472,128,-472" />
+<item itemtype="Connector" uid="connector-15832" startpinid="Resistor-10404-lPin" endpinid="BcdTo7S-10405-out5" pointList="132,-464,128,-464" />
 
-<item itemtype="Connector" uid="connector-14916" startpinid="FlipFlopT-10417-in2" endpinid="Node-10423-1" pointList="32,-428,32,-424" />
+<item itemtype="Connector" uid="connector-15833" startpinid="Resistor-10418-lPin" endpinid="BcdTo7S-10405-out4" pointList="132,-472,128,-472" />
 
-<item itemtype="Connector" uid="connector-14917" startpinid="Resistor-10420-rPin" endpinid="Seven Segment-10414-pin_d" pointList="164,-480,168,-480" />
+<item itemtype="Connector" uid="connector-15834" startpinid="FlipFlopT-10417-in2" endpinid="Node-10423-1" pointList="32,-428,32,-424" />
 
-<item itemtype="Connector" uid="connector-14918" startpinid="Node-10416-1" endpinid="And Gate-10407-in2" pointList="-108,-444,-108,-392,12,-392" />
+<item itemtype="Connector" uid="connector-15835" startpinid="Resistor-10420-rPin" endpinid="Seven Segment-10414-pin_d" pointList="164,-480,168,-480" />
 
-<item itemtype="Connector" uid="connector-14919" startpinid="FlipFlopT-10421-in2" endpinid="Node-10554-0" pointList="-124,-428,-124,-424" />
+<item itemtype="Connector" uid="connector-15836" startpinid="Node-10416-1" endpinid="And Gate-10407-in2" pointList="-108,-444,-108,-392,12,-392" />
 
-<item itemtype="Connector" uid="connector-14920" startpinid="Buffer-10552-out" endpinid="Node-10554-1" pointList="-232,-404,-124,-404,-124,-424" />
+<item itemtype="Connector" uid="connector-15837" startpinid="FlipFlopT-10421-in2" endpinid="Node-10554-0" pointList="-124,-428,-124,-424" />
 
-<item itemtype="Connector" uid="connector-14921" startpinid="Node-10554-2" endpinid="Node-10434-0" pointList="-124,-424,-72,-424" />
+<item itemtype="Connector" uid="connector-15838" startpinid="Buffer-10552-out" endpinid="Node-10554-1" pointList="-232,-404,-124,-404,-124,-424" />
 
-<item itemtype="Connector" uid="connector-14922" startpinid="BcdTo7S-10405-in3" endpinid="Node-10846-0" pointList="80,-464,72,-464" />
+<item itemtype="Connector" uid="connector-15839" startpinid="Node-10554-2" endpinid="Node-10434-0" pointList="-124,-424,-72,-424" />
 
-<item itemtype="Connector" uid="connector-14923" startpinid="FlipFlopT-10421-out0" endpinid="Node-10844-0" pointList="-108,-452,-104,-452,-104,-488,64,-488" />
+<item itemtype="Connector" uid="connector-15840" startpinid="BcdTo7S-10405-in3" endpinid="Node-10846-0" pointList="80,-464,72,-464" />
 
-<item itemtype="Connector" uid="connector-14924" startpinid="And Gate-10431-in1" endpinid="And Gate-10838-out" pointList="-220,-440,-224,-440,-224,-372,68,-372,68,-404" />
+<item itemtype="Connector" uid="connector-15841" startpinid="FlipFlopT-10421-out0" endpinid="Node-10844-0" pointList="-108,-452,-104,-452,-104,-488,64,-488" />
 
-<item itemtype="Connector" uid="connector-14925" startpinid="And Gate-10838-in1" endpinid="Node-10844-1" pointList="64,-436,64,-488" />
+<item itemtype="Connector" uid="connector-15842" startpinid="And Gate-10431-in1" endpinid="And Gate-10838-out" pointList="-220,-440,-224,-440,-224,-372,68,-372,68,-404" />
 
-<item itemtype="Connector" uid="connector-14926" startpinid="Node-10844-2" endpinid="BcdTo7S-10405-in0" pointList="64,-488,80,-488" />
+<item itemtype="Connector" uid="connector-15843" startpinid="And Gate-10838-in1" endpinid="Node-10844-1" pointList="64,-436,64,-488" />
 
-<item itemtype="Connector" uid="connector-14927" startpinid="Node-10846-2" endpinid="Node-10428-0" pointList="72,-464,52,-464,52,-452" />
+<item itemtype="Connector" uid="connector-15844" startpinid="Node-10844-2" endpinid="BcdTo7S-10405-in0" pointList="64,-488,80,-488" />
 
-<item itemtype="Connector" uid="connector-14928" startpinid="Node-10846-1" endpinid="And Gate-10838-in0" pointList="72,-464,72,-436" />
+<item itemtype="Connector" uid="connector-15845" startpinid="Node-10846-2" endpinid="Node-10428-0" pointList="72,-464,52,-464,52,-452" />
 
-<item itemtype="Connector" uid="connector-14929" startpinid="Resistor-10851-rPin" endpinid="Led-10849-lPin" pointList="960,-656,976,-656" />
+<item itemtype="Connector" uid="connector-15846" startpinid="Node-10846-1" endpinid="And Gate-10838-in0" pointList="72,-464,72,-436" />
 
-<item itemtype="Connector" uid="connector-14930" startpinid="Tunnel-8700-pin" endpinid="Node-10860-0" pointList="900,-680,900,-656" />
+<item itemtype="Connector" uid="connector-15847" startpinid="Resistor-10851-rPin" endpinid="Led-10849-lPin" pointList="940,-620,956,-620" />
 
-<item itemtype="Connector" uid="connector-14931" startpinid="Resistor-10851-lPin" endpinid="Node-10860-1" pointList="928,-656,900,-656" />
+<item itemtype="Connector" uid="connector-15848" startpinid="Xor Gate-11390-out" endpinid="Xor Gate-11392-in1" pointList="-344,-796,-336,-796,-336,-804,-324,-804" />
 
-<item itemtype="Connector" uid="connector-14932" startpinid="Node-10860-2" endpinid="FlipFlopD-8693-out0" pointList="900,-656,900,-620" />
+<item itemtype="Connector" uid="connector-15849" startpinid="Xor Gate-11389-out" endpinid="Xor Gate-11392-in0" pointList="-344,-820,-336,-820,-336,-812,-324,-812" />
 
-<item itemtype="Connector" uid="connector-14933" startpinid="Xor Gate-11390-out" endpinid="Xor Gate-11392-in1" pointList="-344,-796,-336,-796,-336,-804,-324,-804" />
+<item itemtype="Connector" uid="connector-15850" startpinid="Xor Gate-11391-in1" endpinid="Xor Gate-11388-out" pointList="-324,-852,-336,-852,-336,-844,-344,-844" />
 
-<item itemtype="Connector" uid="connector-14934" startpinid="Xor Gate-11389-out" endpinid="Xor Gate-11392-in0" pointList="-344,-820,-336,-820,-336,-812,-324,-812" />
+<item itemtype="Connector" uid="connector-15851" startpinid="Xor Gate-11387-out" endpinid="Xor Gate-11391-in0" pointList="-344,-868,-336,-868,-336,-860,-324,-860" />
 
-<item itemtype="Connector" uid="connector-14935" startpinid="Xor Gate-11391-in1" endpinid="Xor Gate-11388-out" pointList="-324,-852,-336,-852,-336,-844,-344,-844" />
+<item itemtype="Connector" uid="connector-15852" startpinid="And Gate-10431-out" endpinid="Node-11938-0" pointList="-188,-444,-168,-444" />
 
-<item itemtype="Connector" uid="connector-14936" startpinid="Xor Gate-11387-out" endpinid="Xor Gate-11391-in0" pointList="-344,-868,-336,-868,-336,-860,-324,-860" />
+<item itemtype="Connector" uid="connector-15853" startpinid="Node-11938-2" endpinid="FlipFlopT-10421-in3" pointList="-168,-444,-148,-444" />
 
-<item itemtype="Connector" uid="connector-14937" startpinid="And Gate-10431-out" endpinid="Node-11938-0" pointList="-188,-444,-168,-444" />
+<item itemtype="Connector" uid="connector-15854" startpinid="Node-11938-1" endpinid="Node-11941-1" pointList="-168,-444,-168,-588" />
 
-<item itemtype="Connector" uid="connector-14938" startpinid="Node-11938-2" endpinid="FlipFlopT-10421-in3" pointList="-168,-444,-148,-444" />
+<item itemtype="Connector" uid="connector-15855" startpinid="Node-11941-2" endpinid="Node-7981-0" pointList="-168,-588,-144,-588" />
 
-<item itemtype="Connector" uid="connector-14939" startpinid="Node-11938-1" endpinid="Node-11941-1" pointList="-168,-444,-168,-588" />
+<item itemtype="Connector" uid="connector-15856" startpinid="Xor Gate-11391-out" endpinid="Xor Gate-12236-in0" pointList="-292,-856,-284,-856,-284,-836,-276,-836" />
 
-<item itemtype="Connector" uid="connector-14940" startpinid="Node-11941-2" endpinid="Node-7981-0" pointList="-168,-588,-144,-588" />
+<item itemtype="Connector" uid="connector-15857" startpinid="Xor Gate-11392-out" endpinid="Xor Gate-12236-in1" pointList="-292,-808,-284,-808,-284,-828,-276,-828" />
 
-<item itemtype="Connector" uid="connector-14941" startpinid="Xor Gate-11391-out" endpinid="Xor Gate-12236-in0" pointList="-292,-856,-284,-856,-284,-836,-276,-836" />
+<item itemtype="Connector" uid="connector-15858" startpinid="Xor Gate-12240-out" endpinid="Xor Gate-12241-in0" pointList="960,-436,968,-436,968,-428,980,-428" />
 
-<item itemtype="Connector" uid="connector-14942" startpinid="Xor Gate-11392-out" endpinid="Xor Gate-12236-in1" pointList="-292,-808,-284,-808,-284,-828,-276,-828" />
+<item itemtype="Connector" uid="connector-15859" startpinid="Xor Gate-12239-out" endpinid="Xor Gate-12241-in1" pointList="960,-412,968,-412,968,-420,980,-420" />
 
-<item itemtype="Connector" uid="connector-14943" startpinid="Xor Gate-12240-out" endpinid="Xor Gate-12241-in0" pointList="108,-1024,116,-1024,116,-1016,128,-1016" />
+<item itemtype="Connector" uid="connector-15860" startpinid="Xor Gate-12241-out" endpinid="Xor Gate-12244-in1" pointList="1012,-424,1020,-424,1020,-444,1028,-444" />
 
-<item itemtype="Connector" uid="connector-14944" startpinid="Xor Gate-12239-out" endpinid="Xor Gate-12241-in1" pointList="108,-1000,116,-1000,116,-1008,128,-1008" />
+<item itemtype="Connector" uid="connector-15861" startpinid="Xor Gate-12242-out" endpinid="Xor Gate-12244-in0" pointList="1012,-472,1020,-472,1020,-452,1028,-452" />
 
-<item itemtype="Connector" uid="connector-14945" startpinid="Xor Gate-12241-out" endpinid="Xor Gate-12244-in1" pointList="160,-1012,168,-1012,168,-1032,176,-1032" />
+<item itemtype="Connector" uid="connector-15862" startpinid="Xor Gate-12243-out" endpinid="Xor Gate-12242-in0" pointList="960,-484,968,-484,968,-476,980,-476" />
 
-<item itemtype="Connector" uid="connector-14946" startpinid="Xor Gate-12242-out" endpinid="Xor Gate-12244-in0" pointList="160,-1060,168,-1060,168,-1040,176,-1040" />
+<item itemtype="Connector" uid="connector-15863" startpinid="Xor Gate-12242-in1" endpinid="Xor Gate-12245-out" pointList="980,-468,968,-468,968,-460,960,-460" />
 
-<item itemtype="Connector" uid="connector-14947" startpinid="Xor Gate-12243-out" endpinid="Xor Gate-12242-in0" pointList="108,-1072,116,-1072,116,-1064,128,-1064" />
+<item itemtype="Connector" uid="connector-15864" startpinid="Xor Gate-12244-out" endpinid="Xor Gate-12252-in1" pointList="1060,-448,1080,-448" />
 
-<item itemtype="Connector" uid="connector-14948" startpinid="Xor Gate-12242-in1" endpinid="Xor Gate-12245-out" pointList="128,-1056,116,-1056,116,-1048,108,-1048" />
+<item itemtype="Connector" uid="connector-15865" startpinid="Tunnel-7966-pin" endpinid="Node-13491-0" pointList="420,-692,420,-672" />
 
-<item itemtype="Connector" uid="connector-14949" startpinid="Xor Gate-12244-out" endpinid="Xor Gate-12252-in1" pointList="208,-1036,228,-1036" />
+<item itemtype="Connector" uid="connector-15866" startpinid="Tunnel-7937-pin" endpinid="Node-13482-0" pointList="596,-692,596,-688" />
 
-<item itemtype="Connector" uid="connector-14950" startpinid="Tunnel-7966-pin" endpinid="Node-13491-0" pointList="420,-692,420,-672" />
+<item itemtype="Connector" uid="connector-15867" startpinid="Tunnel-7959-pin" endpinid="Node-13485-0" pointList="544,-692,544,-688" />
 
-<item itemtype="Connector" uid="connector-14951" startpinid="Tunnel-7937-pin" endpinid="Node-13482-0" pointList="596,-692,596,-688" />
+<item itemtype="Connector" uid="connector-15868" startpinid="Tunnel-8500-pin" endpinid="Node-13192-0" pointList="840,-692,840,-688" />
 
-<item itemtype="Connector" uid="connector-14952" startpinid="Tunnel-7959-pin" endpinid="Node-13485-0" pointList="544,-692,544,-688" />
+<item itemtype="Connector" uid="connector-15869" startpinid="Tunnel-7969-pin" endpinid="Node-13488-0" pointList="480,-692,480,-680" />
 
-<item itemtype="Connector" uid="connector-14953" startpinid="Tunnel-8500-pin" endpinid="Node-13192-0" pointList="840,-692,840,-688" />
+<item itemtype="Connector" uid="connector-15870" startpinid="Node-13192-2" endpinid="Node-8695-0" pointList="840,-688,840,-620" />
 
-<item itemtype="Connector" uid="connector-14954" startpinid="Tunnel-7969-pin" endpinid="Node-13488-0" pointList="480,-692,480,-680" />
+<item itemtype="Connector" uid="connector-15871" startpinid="Tunnel-8504-pin" endpinid="Node-13203-0" pointList="788,-692,788,-684" />
 
-<item itemtype="Connector" uid="connector-14955" startpinid="Node-13192-2" endpinid="Node-8695-0" pointList="840,-688,840,-620" />
+<item itemtype="Connector" uid="connector-15872" startpinid="Node-13203-2" endpinid="Node-8501-1" pointList="788,-684,788,-620" />
 
-<item itemtype="Connector" uid="connector-14956" startpinid="Tunnel-8504-pin" endpinid="Node-13203-0" pointList="788,-692,788,-684" />
+<item itemtype="Connector" uid="connector-15873" startpinid="BcdTo7S-8862-in0" endpinid="Node-13192-1" pointList="692,-828,692,-808,832,-808,832,-688,840,-688" />
 
-<item itemtype="Connector" uid="connector-14957" startpinid="Node-13203-2" endpinid="Node-8501-1" pointList="788,-684,788,-620" />
+<item itemtype="Connector" uid="connector-15874" startpinid="Node-13482-2" endpinid="Node-8535-0" pointList="596,-688,596,-620" />
 
-<item itemtype="Connector" uid="connector-14958" startpinid="BcdTo7S-8862-in0" endpinid="Node-13192-1" pointList="692,-828,692,-808,832,-808,832,-688,840,-688" />
+<item itemtype="Connector" uid="connector-15875" startpinid="Node-13482-1" endpinid="BcdTo7S-7949-in0" pointList="596,-688,580,-688,580,-816,536,-816,536,-828" />
 
-<item itemtype="Connector" uid="connector-14959" startpinid="Node-13482-2" endpinid="Node-8535-0" pointList="596,-688,596,-620" />
+<item itemtype="Connector" uid="connector-15876" startpinid="Node-13485-2" endpinid="Node-7935-1" pointList="544,-688,544,-620" />
 
-<item itemtype="Connector" uid="connector-14960" startpinid="Node-13482-1" endpinid="BcdTo7S-7949-in0" pointList="596,-688,580,-688,580,-816,536,-816,536,-828" />
+<item itemtype="Connector" uid="connector-15877" startpinid="Node-13485-1" endpinid="BcdTo7S-7949-in1" pointList="544,-688,576,-688,576,-812,544,-812,544,-828" />
 
-<item itemtype="Connector" uid="connector-14961" startpinid="Node-13485-2" endpinid="Node-7935-1" pointList="544,-688,544,-620" />
+<item itemtype="Connector" uid="connector-15878" startpinid="Node-13488-2" endpinid="Node-7942-1" pointList="480,-680,480,-620" />
 
-<item itemtype="Connector" uid="connector-14962" startpinid="Node-13485-1" endpinid="BcdTo7S-7949-in1" pointList="544,-688,576,-688,576,-812,544,-812,544,-828" />
+<item itemtype="Connector" uid="connector-15879" startpinid="Node-13488-1" endpinid="BcdTo7S-7949-in2" pointList="480,-680,572,-680,572,-808,552,-808,552,-828" />
 
-<item itemtype="Connector" uid="connector-14963" startpinid="Node-13488-2" endpinid="Node-7942-1" pointList="480,-680,480,-620" />
+<item itemtype="Connector" uid="connector-15880" startpinid="Node-13491-2" endpinid="Node-7954-1" pointList="420,-672,420,-620" />
 
-<item itemtype="Connector" uid="connector-14964" startpinid="Node-13488-1" endpinid="BcdTo7S-7949-in2" pointList="480,-680,572,-680,572,-808,552,-808,552,-828" />
+<item itemtype="Connector" uid="connector-15881" startpinid="Node-13491-1" endpinid="BcdTo7S-7949-in3" pointList="420,-672,568,-672,568,-804,560,-804,560,-828" />
 
-<item itemtype="Connector" uid="connector-14965" startpinid="Node-13491-2" endpinid="Node-7954-1" pointList="420,-672,420,-620" />
+<item itemtype="Connector" uid="connector-15882" startpinid="Tunnel-8512-pin" endpinid="Node-13497-0" pointList="724,-692,724,-676" />
 
-<item itemtype="Connector" uid="connector-14966" startpinid="Node-13491-1" endpinid="BcdTo7S-7949-in3" pointList="420,-672,568,-672,568,-804,560,-804,560,-828" />
+<item itemtype="Connector" uid="connector-15883" startpinid="Node-13497-2" endpinid="Node-8510-1" pointList="724,-676,724,-620" />
 
-<item itemtype="Connector" uid="connector-14967" startpinid="Tunnel-8512-pin" endpinid="Node-13497-0" pointList="724,-692,724,-676" />
+<item itemtype="Connector" uid="connector-15884" startpinid="Node-13497-1" endpinid="BcdTo7S-8862-in2" pointList="724,-676,824,-676,824,-800,708,-800,708,-828" />
 
-<item itemtype="Connector" uid="connector-14968" startpinid="Node-13497-2" endpinid="Node-8510-1" pointList="724,-676,724,-620" />
+<item itemtype="Connector" uid="connector-15885" startpinid="Tunnel-8508-pin" endpinid="Node-13503-0" pointList="664,-692,664,-668" />
 
-<item itemtype="Connector" uid="connector-14969" startpinid="Node-13497-1" endpinid="BcdTo7S-8862-in2" pointList="724,-676,824,-676,824,-800,708,-800,708,-828" />
+<item itemtype="Connector" uid="connector-15886" startpinid="Node-13503-2" endpinid="Node-8514-1" pointList="664,-668,664,-620" />
 
-<item itemtype="Connector" uid="connector-14970" startpinid="Tunnel-8508-pin" endpinid="Node-13503-0" pointList="664,-692,664,-668" />
+<item itemtype="Connector" uid="connector-15887" startpinid="Node-13503-1" endpinid="BcdTo7S-8862-in3" pointList="664,-668,820,-668,820,-796,716,-796,716,-828" />
 
-<item itemtype="Connector" uid="connector-14971" startpinid="Node-13503-2" endpinid="Node-8514-1" pointList="664,-668,664,-620" />
+<item itemtype="Connector" uid="connector-15888" startpinid="FlipFlopD-7983-in3" endpinid="Node-11941-0" pointList="-204,-612,-204,-588,-168,-588" />
 
-<item itemtype="Connector" uid="connector-14972" startpinid="Node-13503-1" endpinid="BcdTo7S-8862-in3" pointList="664,-668,820,-668,820,-796,716,-796,716,-828" />
+<item itemtype="Connector" uid="connector-15889" startpinid="Push-8086-switch0pinN" endpinid="Node-13514-0" pointList="-248,-684,-232,-684" />
 
-<item itemtype="Connector" uid="connector-14973" startpinid="FlipFlopD-7983-in3" endpinid="Node-11941-0" pointList="-204,-612,-204,-588,-168,-588" />
+<item itemtype="Connector" uid="connector-15890" startpinid="FlipFlopD-7983-in2" endpinid="Node-13511-0" pointList="-180,-596,-180,-572" />
 
-<item itemtype="Connector" uid="connector-14974" startpinid="Push-8086-switch0pinN" endpinid="Node-13514-0" pointList="-248,-684,-232,-684" />
+<item itemtype="Connector" uid="connector-15891" startpinid="Node-13511-2" endpinid="Node-7976-0" pointList="-180,-572,-120,-572" />
 
-<item itemtype="Connector" uid="connector-14975" startpinid="FlipFlopD-7983-in2" endpinid="Node-13511-0" pointList="-180,-596,-180,-572" />
+<item itemtype="Connector" uid="connector-15892" startpinid="Node-13514-2" endpinid="Node-8089-1" pointList="-232,-684,-184,-684" />
 
-<item itemtype="Connector" uid="connector-14976" startpinid="Node-13511-2" endpinid="Node-7976-0" pointList="-180,-572,-120,-572" />
+<item itemtype="Connector" uid="connector-15893" startpinid="Node-13788-2" endpinid="And Gate-7975-in1" pointList="-192,-712,-192,-676" />
 
-<item itemtype="Connector" uid="connector-14977" startpinid="Node-13514-2" endpinid="Node-8089-1" pointList="-232,-684,-184,-684" />
+<item itemtype="Connector" uid="connector-15894" startpinid="Node-13788-1" endpinid="Xor Gate-11390-in1" pointList="-192,-712,-376,-712,-376,-792" />
 
-<item itemtype="Connector" uid="connector-14978" startpinid="Node-13788-2" endpinid="And Gate-7975-in1" pointList="-192,-712,-192,-676" />
+<item itemtype="Connector" uid="connector-15895" startpinid="Fixed Voltage-8471-outnod" endpinid="Node-13797-0" pointList="-132,-772,-132,-716" />
 
-<item itemtype="Connector" uid="connector-14979" startpinid="Node-13788-1" endpinid="Xor Gate-11390-in1" pointList="-192,-712,-376,-712,-376,-792" />
+<item itemtype="Connector" uid="connector-15896" startpinid="Node-13797-2" endpinid="And Gate-7973-in1" pointList="-132,-716,-132,-676" />
 
-<item itemtype="Connector" uid="connector-14980" startpinid="Fixed Voltage-8471-outnod" endpinid="Node-13797-0" pointList="-132,-772,-132,-716" />
+<item itemtype="Connector" uid="connector-15897" startpinid="Node-13797-1" endpinid="Xor Gate-11390-in0" pointList="-132,-716,-380,-716,-380,-800,-376,-800" />
 
-<item itemtype="Connector" uid="connector-14981" startpinid="Node-13797-2" endpinid="And Gate-7973-in1" pointList="-132,-716,-132,-676" />
+<item itemtype="Connector" uid="connector-15898" startpinid="Node-13800-2" endpinid="And Gate-7964-in1" pointList="-72,-720,-72,-676" />
 
-<item itemtype="Connector" uid="connector-14982" startpinid="Node-13797-1" endpinid="Xor Gate-11390-in0" pointList="-132,-716,-380,-716,-380,-800,-376,-800" />
+<item itemtype="Connector" uid="connector-15899" startpinid="Node-13800-1" endpinid="Xor Gate-11389-in1" pointList="-72,-720,-384,-720,-384,-816,-376,-816" />
 
-<item itemtype="Connector" uid="connector-14983" startpinid="Node-13800-2" endpinid="And Gate-7964-in1" pointList="-72,-720,-72,-676" />
+<item itemtype="Connector" uid="connector-15900" startpinid="Node-13803-2" endpinid="And Gate-7968-in1" pointList="-12,-724,-12,-676" />
 
-<item itemtype="Connector" uid="connector-14984" startpinid="Node-13800-1" endpinid="Xor Gate-11389-in1" pointList="-72,-720,-384,-720,-384,-816,-376,-816" />
+<item itemtype="Connector" uid="connector-15901" startpinid="Node-13803-1" endpinid="Xor Gate-11389-in0" pointList="-12,-724,-388,-724,-388,-824,-376,-824" />
 
-<item itemtype="Connector" uid="connector-14985" startpinid="Node-13803-2" endpinid="And Gate-7968-in1" pointList="-12,-724,-12,-676" />
+<item itemtype="Connector" uid="connector-15902" startpinid="Node-13806-2" endpinid="Fixed Voltage-7958-outnod" pointList="40,-728,40,-772" />
 
-<item itemtype="Connector" uid="connector-14986" startpinid="Node-13803-1" endpinid="Xor Gate-11389-in0" pointList="-12,-724,-388,-724,-388,-824,-376,-824" />
+<item itemtype="Connector" uid="connector-15903" startpinid="Node-13806-1" endpinid="Xor Gate-11388-in1" pointList="40,-728,-392,-728,-392,-840,-376,-840" />
 
-<item itemtype="Connector" uid="connector-14987" startpinid="Node-13806-2" endpinid="Fixed Voltage-7958-outnod" pointList="40,-728,40,-772" />
+<item itemtype="Connector" uid="connector-15904" startpinid="Node-13809-2" endpinid="And Gate-8308-in1" pointList="100,-732,100,-676" />
 
-<item itemtype="Connector" uid="connector-14988" startpinid="Node-13806-1" endpinid="Xor Gate-11388-in1" pointList="40,-728,-392,-728,-392,-840,-376,-840" />
+<item itemtype="Connector" uid="connector-15905" startpinid="Node-13809-1" endpinid="Xor Gate-11388-in0" pointList="100,-732,-396,-732,-396,-848,-376,-848" />
 
-<item itemtype="Connector" uid="connector-14989" startpinid="Node-13809-2" endpinid="And Gate-8308-in1" pointList="100,-732,100,-676" />
+<item itemtype="Connector" uid="connector-15906" startpinid="Node-13812-2" endpinid="And Gate-8304-in1" pointList="160,-736,160,-676" />
 
-<item itemtype="Connector" uid="connector-14990" startpinid="Node-13809-1" endpinid="Xor Gate-11388-in0" pointList="100,-732,-396,-732,-396,-848,-376,-848" />
+<item itemtype="Connector" uid="connector-15907" startpinid="Node-13812-1" endpinid="Xor Gate-11387-in1" pointList="160,-736,-400,-736,-400,-864,-376,-864" />
 
-<item itemtype="Connector" uid="connector-14991" startpinid="Node-13812-2" endpinid="And Gate-8304-in1" pointList="160,-736,160,-676" />
+<item itemtype="Connector" uid="connector-15908" startpinid="Fixed Voltage-7965-outnod" endpinid="Node-13812-0" pointList="160,-772,160,-736" />
 
-<item itemtype="Connector" uid="connector-14992" startpinid="Node-13812-1" endpinid="Xor Gate-11387-in1" pointList="160,-736,-400,-736,-400,-864,-376,-864" />
+<item itemtype="Connector" uid="connector-15909" startpinid="Node-14103-2" endpinid="Fixed Voltage-7980-outnod" pointList="220,-740,220,-772" />
 
-<item itemtype="Connector" uid="connector-14993" startpinid="Fixed Voltage-7965-outnod" endpinid="Node-13812-0" pointList="160,-772,160,-736" />
+<item itemtype="Connector" uid="connector-15910" startpinid="Node-14103-1" endpinid="Xor Gate-11387-in0" pointList="220,-740,-404,-740,-404,-872,-376,-872" />
 
-<item itemtype="Connector" uid="connector-14994" startpinid="Node-14103-2" endpinid="Fixed Voltage-7980-outnod" pointList="220,-740,220,-772" />
+<item itemtype="Connector" uid="connector-15911" startpinid="Node-13203-1" endpinid="BcdTo7S-8862-in1" pointList="788,-684,828,-684,828,-804,700,-804,700,-828" />
 
-<item itemtype="Connector" uid="connector-14995" startpinid="Node-14103-1" endpinid="Xor Gate-11387-in0" pointList="220,-740,-404,-740,-404,-872,-376,-872" />
+<item itemtype="Connector" uid="connector-15912" startpinid="And Gate-8481-in1" endpinid="Xor Gate-12236-out" pointList="272,-676,272,-708,-244,-708,-244,-832" />
 
-<item itemtype="Connector" uid="connector-14996" startpinid="Node-13203-1" endpinid="BcdTo7S-8862-in1" pointList="788,-684,828,-684,828,-804,700,-804,700,-828" />
+<item itemtype="Connector" uid="connector-15913" startpinid="Node-9616-2" endpinid="Node-14428-0" pointList="372,-588,432,-588" />
 
-<item itemtype="Connector" uid="connector-14997" startpinid="Tunnel-14426-pin" endpinid="Xor Gate-12252-in0" pointList="104,-1096,124,-1096,124,-1076,180,-1076,180,-1060,208,-1060,208,-1044,228,-1044" />
+<item itemtype="Connector" uid="connector-15914" startpinid="FlipFlopD-7985-in3" endpinid="Node-14431-0" pointList="492,-612,492,-588" />
 
-<item itemtype="Connector" uid="connector-14998" startpinid="And Gate-8481-in1" endpinid="Xor Gate-12236-out" pointList="304,-676,304,-708,-244,-708,-244,-832" />
+<item itemtype="Connector" uid="connector-15915" startpinid="Node-14428-2" endpinid="FlipFlopD-7961-in3" pointList="432,-588,432,-612" />
 
-<item itemtype="Connector" uid="connector-14999" startpinid="Node-9616-2" endpinid="Node-14428-0" pointList="372,-588,432,-588" />
+<item itemtype="Connector" uid="connector-15916" startpinid="Node-14428-1" endpinid="Node-14431-1" pointList="432,-588,492,-588" />
 
-<item itemtype="Connector" uid="connector-15000" startpinid="FlipFlopD-7985-in3" endpinid="Node-14431-0" pointList="492,-612,492,-588" />
+<item itemtype="Connector" uid="connector-15917" startpinid="Node-14431-2" endpinid="Node-8543-0" pointList="492,-588,552,-588" />
 
-<item itemtype="Connector" uid="connector-15001" startpinid="Node-14428-2" endpinid="FlipFlopD-7961-in3" pointList="432,-588,432,-612" />
+<item itemtype="Connector" uid="connector-15918" startpinid="FlipFlopT-10432-out0" endpinid="Node-14433-0" pointList="-56,-452,-52,-452" />
 
-<item itemtype="Connector" uid="connector-15002" startpinid="Node-14428-1" endpinid="Node-14431-1" pointList="432,-588,492,-588" />
+<item itemtype="Connector" uid="connector-15919" startpinid="Node-14433-2" endpinid="BcdTo7S-10405-in1" pointList="-52,-452,-52,-480,80,-480" />
 
-<item itemtype="Connector" uid="connector-15003" startpinid="Node-14431-2" endpinid="Node-8543-0" pointList="492,-588,552,-588" />
+<item itemtype="Connector" uid="connector-15920" startpinid="Node-14433-1" endpinid="And Gate-10407-in1" pointList="-52,-452,-52,-400,12,-400" />
 
-<item itemtype="Connector" uid="connector-15004" startpinid="FlipFlopT-10432-out0" endpinid="Node-14433-0" pointList="-56,-452,-52,-452" />
+<item itemtype="Connector" uid="connector-15921" startpinid="Node-10419-1" endpinid="Node-14726-0" pointList="-132,-468,-132,-496" />
 
-<item itemtype="Connector" uid="connector-15005" startpinid="Node-14433-2" endpinid="BcdTo7S-10405-in1" pointList="-52,-452,-52,-480,80,-480" />
+<item itemtype="Connector" uid="connector-15922" startpinid="Push-8086-pinP0" endpinid="Node-14723-0" pointList="-280,-684,-284,-684" />
 
-<item itemtype="Connector" uid="connector-15006" startpinid="Node-14433-1" endpinid="And Gate-10407-in1" pointList="-52,-452,-52,-400,12,-400" />
+<item itemtype="Connector" uid="connector-15923" startpinid="Node-14723-2" endpinid="Rail-8093-outnod" pointList="-284,-684,-372,-684" />
 
-<item itemtype="Connector" uid="connector-15007" startpinid="Node-10419-1" endpinid="Node-14726-0" pointList="-132,-468,-132,-496" />
+<item itemtype="Connector" uid="connector-15924" startpinid="Node-14723-1" endpinid="Node-14726-1" pointList="-284,-684,-284,-496,-132,-496" />
 
-<item itemtype="Connector" uid="connector-15008" startpinid="Push-8086-pinP0" endpinid="Node-14723-0" pointList="-280,-684,-284,-684" />
+<item itemtype="Connector" uid="connector-15925" startpinid="Node-14726-2" endpinid="Node-10410-0" pointList="-132,-496,-80,-496" />
 
-<item itemtype="Connector" uid="connector-15009" startpinid="Node-14723-2" endpinid="Rail-8093-outnod" pointList="-284,-684,-372,-684" />
+<item itemtype="Connector" uid="connector-15926" startpinid="Node-13511-1" endpinid="Node-14728-0" pointList="-180,-572,-232,-572" />
 
-<item itemtype="Connector" uid="connector-15010" startpinid="Node-14723-1" endpinid="Node-14726-1" pointList="-284,-684,-284,-496,-132,-496" />
+<item itemtype="Connector" uid="connector-15927" startpinid="Node-14728-2" endpinid="Node-13514-1" pointList="-232,-572,-232,-684" />
 
-<item itemtype="Connector" uid="connector-15011" startpinid="Node-14726-2" endpinid="Node-10410-0" pointList="-132,-496,-80,-496" />
+<item itemtype="Connector" uid="connector-15928" startpinid="Node-14728-1" endpinid="Buffer-10552-in0" pointList="-232,-572,-280,-572,-280,-404,-264,-404" />
 
-<item itemtype="Connector" uid="connector-15012" startpinid="Node-13511-1" endpinid="Node-14728-0" pointList="-180,-572,-232,-572" />
+<item itemtype="Connector" uid="connector-15929" startpinid="Resistor-15047-rPin" endpinid="Led-15048-lPin" pointList="1152,-452,1168,-452" />
 
-<item itemtype="Connector" uid="connector-15013" startpinid="Node-14728-2" endpinid="Node-13514-1" pointList="-232,-572,-232,-684" />
+<item itemtype="Connector" uid="connector-15930" startpinid="Resistor-15047-lPin" endpinid="Xor Gate-12252-out" pointList="1120,-452,1112,-452" />
 
-<item itemtype="Connector" uid="connector-15014" startpinid="Node-14728-1" endpinid="Buffer-10552-in0" pointList="-232,-572,-280,-572,-280,-404,-264,-404" />
+<item itemtype="Connector" uid="connector-15931" startpinid="Node-8510-2" endpinid="Node-15636-0" pointList="724,-620,724,-620" />
+
+<item itemtype="Connector" uid="connector-15932" startpinid="FlipFlopD-8693-in0" endpinid="Node-15339-0" pointList="860,-620,852,-620" />
+
+<item itemtype="Connector" uid="connector-15933" startpinid="Node-7954-2" endpinid="Node-15651-0" pointList="420,-620,420,-620" />
+
+<item itemtype="Connector" uid="connector-15934" startpinid="FlipFlopD-7985-out0" endpinid="Node-7935-0" pointList="532,-620,544,-620" />
+
+<item itemtype="Connector" uid="connector-15935" startpinid="Node-8514-2" endpinid="Node-15639-0" pointList="664,-620,664,-620" />
+
+<item itemtype="Connector" uid="connector-15936" startpinid="Node-7942-2" endpinid="Node-15648-0" pointList="480,-620,480,-620" />
+
+<item itemtype="Connector" uid="connector-15937" startpinid="Node-8535-1" endpinid="Node-15642-0" pointList="596,-620,596,-620" />
+
+<item itemtype="Connector" uid="connector-15938" startpinid="Node-15339-2" endpinid="Node-8695-1" pointList="852,-620,840,-620" />
+
+<item itemtype="Connector" uid="connector-15939" startpinid="Node-15339-1" endpinid="Xor Gate-12243-in0" pointList="852,-620,852,-488,928,-488" />
+
+<item itemtype="Connector" uid="connector-15940" startpinid="Node-8501-2" endpinid="FlipFlopD-8509-in0" pointList="788,-620,796,-620" />
+
+<item itemtype="Connector" uid="connector-15941" startpinid="Node-15633-2" endpinid="Node-8501-0" pointList="788,-620,788,-620" />
+
+<item itemtype="Connector" uid="connector-15942" startpinid="Node-15633-1" endpinid="Xor Gate-12243-in1" pointList="788,-620,788,-568,848,-568,848,-480,928,-480" />
+
+<item itemtype="Connector" uid="connector-15943" startpinid="Node-15636-2" endpinid="FlipFlopD-8511-in0" pointList="724,-620,736,-620" />
+
+<item itemtype="Connector" uid="connector-15944" startpinid="Node-15636-1" endpinid="Xor Gate-12245-in0" pointList="724,-620,724,-564,844,-564,844,-464,928,-464" />
+
+<item itemtype="Connector" uid="connector-15945" startpinid="Node-15639-2" endpinid="FlipFlopD-8502-in0" pointList="664,-620,676,-620" />
+
+<item itemtype="Connector" uid="connector-15946" startpinid="Node-15639-1" endpinid="Xor Gate-12245-in1" pointList="664,-620,664,-560,840,-560,840,-456,928,-456" />
+
+<item itemtype="Connector" uid="connector-15947" startpinid="Node-15642-2" endpinid="FlipFlopD-8503-in0" pointList="596,-620,616,-620" />
+
+<item itemtype="Connector" uid="connector-15948" startpinid="Node-15642-1" endpinid="Xor Gate-12240-in0" pointList="596,-620,596,-556,836,-556,836,-440,928,-440" />
+
+<item itemtype="Connector" uid="connector-15949" startpinid="Node-15645-2" endpinid="FlipFlopD-7941-in0" pointList="544,-620,552,-620" />
+
+<item itemtype="Connector" uid="connector-15950" startpinid="Node-15645-1" endpinid="Xor Gate-12240-in1" pointList="544,-620,544,-552,832,-552,832,-432,928,-432" />
+
+<item itemtype="Connector" uid="connector-15951" startpinid="Node-15648-2" endpinid="FlipFlopD-7985-in0" pointList="480,-620,492,-620" />
+
+<item itemtype="Connector" uid="connector-15952" startpinid="Node-15648-1" endpinid="Xor Gate-12239-in0" pointList="480,-620,480,-548,828,-548,828,-416,928,-416" />
+
+<item itemtype="Connector" uid="connector-15953" startpinid="Node-15651-2" endpinid="FlipFlopD-7961-in0" pointList="420,-620,432,-620" />
+
+<item itemtype="Connector" uid="connector-15954" startpinid="Node-15651-1" endpinid="Xor Gate-12239-in1" pointList="420,-620,420,-544,824,-544,824,-408,928,-408" />
+
+<item itemtype="Connector" uid="connector-15955" startpinid="Resistor-10851-lPin" endpinid="Node-15654-0" pointList="908,-620,904,-620" />
+
+<item itemtype="Connector" uid="connector-15956" startpinid="Node-15654-2" endpinid="FlipFlopD-8693-out0" pointList="904,-620,900,-620" />
+
+<item itemtype="Connector" uid="connector-15957" startpinid="Node-15654-1" endpinid="Xor Gate-12252-in0" pointList="904,-620,904,-568,856,-568,856,-496,972,-496,972,-484,1024,-484,1024,-460,1060,-460,1060,-456,1080,-456" />
 
 </circuit>

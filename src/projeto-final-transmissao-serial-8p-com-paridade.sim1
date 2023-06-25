@@ -218,6 +218,8 @@
 
 <item itemtype="Led" CircId="Led-15048" mainComp="false" Show_id="true" Show_Val="false" Pos="1184,-452" rotation="0" hflip="1" vflip="1" label="Erro na transmissão" idLabPos="-57,-35" labelrot="0" valLabPos="-16,20" valLabRot="0" Color="Yellow" Grounded="true" Threshold="2.4 V" MaxCurrent="0.03 A" Resistance="0.6 Ω" />
 
+<item itemtype="TextComponent" CircId="TextComponent-15958" mainComp="false" Show_id="false" Show_Val="false" Pos="892,-532" rotation="0" hflip="1" vflip="1" label="TextComponent-15958" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="5 _Pixels" Border="1 _Pixels" Opacity="1" Font="Helvetica [Cronyx]" Font_Size="10 _Pixels" Fixed_Width="true" Text="Circuito verificador de paridade" />
+
 <item itemtype="Node" CircId="Node-7934" mainComp="false" Pos="-84,-588" />
 
 <item itemtype="Node" CircId="Node-7935" mainComp="false" Pos="544,-620" />
